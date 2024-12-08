@@ -9,10 +9,10 @@
     "AccuracySpeedCoef": 1.0
   },
   "General": {
-    "BotsUseGrenades": true,
+    "BotsUseGrenades": false,
     "BotWeightEffects": true,
     "VanillaBots": {
-      "VanillaScavs": false,
+      "VanillaScavs": true,
       "VanillaBosses": false,
       "VanillaFollowers": false,
       "VanillaGoons": false,
