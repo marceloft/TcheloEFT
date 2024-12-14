@@ -100,9 +100,9 @@
         "VisibleDistCoef": 1.25,
         "GainSightCoef": 0.8,
         "ScatteringCoef": 0.8,
-        "HearingDistanceCoef": 1.0,
+        "HearingDistanceCoef": 1.5,
         "AggressionCoef": 1.2,
-        "PrecisionSpeedCoef": 0.8,
+        "PrecisionSpeedCoef": 0.9,
         "AccuracySpeedCoef": 0.8
       },
       "Core": {
@@ -168,8 +168,8 @@
         "SquadMemberTalkFreq": 3.0,
         "SquadLeadTalkFreq": 3.0,
         "EnableExtracts": true,
-        "MaxExtractPercentage": 30.0,
-        "MinExtractPercentage": 5.0
+        "MaxExtractPercentage": 50.0,
+        "MinExtractPercentage": 10.0
       },
       "Move": {},
       "Patrol": {},
@@ -192,9 +192,9 @@
         "VisibleDistCoef": 1.25,
         "GainSightCoef": 0.8,
         "ScatteringCoef": 0.8,
-        "HearingDistanceCoef": 1.0,
+        "HearingDistanceCoef": 1.5,
         "AggressionCoef": 1.2,
-        "PrecisionSpeedCoef": 0.8,
+        "PrecisionSpeedCoef": 0.9,
         "AccuracySpeedCoef": 0.8
       },
       "Core": {
@@ -260,8 +260,8 @@
         "SquadMemberTalkFreq": 3.0,
         "SquadLeadTalkFreq": 3.0,
         "EnableExtracts": true,
-        "MaxExtractPercentage": 30.0,
-        "MinExtractPercentage": 5.0
+        "MaxExtractPercentage": 50.0,
+        "MinExtractPercentage": 10.0
       },
       "Move": {},
       "Patrol": {},
@@ -284,9 +284,9 @@
         "VisibleDistCoef": 1.25,
         "GainSightCoef": 0.8,
         "ScatteringCoef": 0.8,
-        "HearingDistanceCoef": 1.0,
+        "HearingDistanceCoef": 1.5,
         "AggressionCoef": 1.2,
-        "PrecisionSpeedCoef": 0.8,
+        "PrecisionSpeedCoef": 0.9,
         "AccuracySpeedCoef": 0.8
       },
       "Core": {
@@ -352,8 +352,8 @@
         "SquadMemberTalkFreq": 3.0,
         "SquadLeadTalkFreq": 3.0,
         "EnableExtracts": true,
-        "MaxExtractPercentage": 30.0,
-        "MinExtractPercentage": 5.0
+        "MaxExtractPercentage": 50.0,
+        "MinExtractPercentage": 10.0
       },
       "Move": {},
       "Patrol": {},
