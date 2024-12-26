@@ -1,2 +1,0 @@
-Se você adicionar o SearchStash e o LOF (INVENTORY ORGANIZING FEATURES), jamais arraste um item que você está procurando pelo SearchStash dentro de um container (docs, scavbox, THICC, etc..).
-Primeiro você deve arrastar o(s) item(s) para o seu personagem (mochila, rig, pocket, gamma) e depois para o container que você quer que o item esteja.

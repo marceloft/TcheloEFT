@@ -1,5 +1,0 @@
-Mods com dependencias:
-GamePanelHUD -> EFTApi
-PerformanceImprovements -> UnityToolkit
-
-Ou seja, se você quiser adicionar esses dois mods (GamePanelHUD e PerformanceImprovements), você PRECISA adicionar os mods de dependencias. Tudo está na pasta de plugins já.
