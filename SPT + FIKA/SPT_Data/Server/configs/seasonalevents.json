@@ -231,6 +231,28 @@
             }
         }
     },
+	"eventLoot": {
+		"christmas": {
+			"assault": {
+				"Pockets": {
+					"5df8a6a186f77412640e2e80": 2200,
+					"5df8a72c86f77412640e2e83": 2200,
+					"5df8a77486f77412672a1e3f": 2200
+				},
+				"Backpack": {
+					"5df8a6a186f77412640e2e80": 2200,
+					"5df8a72c86f77412640e2e83": 2200,
+					"5df8a77486f77412672a1e3f": 2200,
+					"63a8970d7108f713591149f5": 250
+				},
+				"TacticalVest": {
+					"5df8a6a186f77412640e2e80": 2200,
+					"5df8a72c86f77412640e2e83": 2200,
+					"5df8a77486f77412672a1e3f": 2200
+				}
+			}
+		}
+	},
     "eventBotMapping": {
         "peacefullZryachiyEvent": "bossZryachiy",
         "sectactPriestEvent": "sectantPriest",
@@ -8317,7 +8339,7 @@
         {
             "enabled": true,
             "name": "newyears",
-            "type": "NEW_YEARS",
+            "type": "NEWYEARS",
             "startDay": "1",
             "startMonth": "1",
             "endDay": "7",
@@ -8326,7 +8348,7 @@
         {
             "enabled": true,
             "name": "April fools",
-            "type": "APRIL_FOOLS",
+            "type": "APRILFOOLS",
             "startDay": "1",
             "startMonth": "4",
             "endDay": "2",
