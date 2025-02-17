@@ -1,0 +1,17 @@
+{
+  "live-like": 0,
+  "starting-pmc-live-like": 70,
+  "starting-pmc-more-scavs": 20,
+  "starting-pmc-more-pmcs": 5,
+  "starting-pmc-quiet-raids": 5,
+  "more-scavs": 0,
+  "more-pmcs": 0,
+  "quiet-raids": 0,
+  "more-scavs-and-pmcs": 0,
+  "main-boss-roaming": 0,
+  "sniper-buddies": 0,
+  "boss-invasion": 0,
+  "rogue-invasion": 0,
+  "raider-invasion": 0,
+  "insanity": 0
+}

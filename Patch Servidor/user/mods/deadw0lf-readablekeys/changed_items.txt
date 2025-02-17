@@ -1,0 +1,850 @@
+[better-attachments@3.10.0] TACTICAL_COMBO item: 544909bb4bdc2d6f028b4577 :: L3Harris AN/PEQ-15 tactical device :: 0
+[better-attachments@3.10.0] SILENCER item: 54490a4d4bdc2dbc018b4573 :: SilencerCo Sparrow 22 sound suppressor :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 544a38634bdc2d58388b4568 :: AR-15 Colt USGI A2 5.56x45 flash hider :: 0
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 544a3a774bdc2d3a388b4567 :: Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope :: -1
+[better-attachments@3.10.0] OPTIC_SCOPE item: 544a3d0a4bdc2d1b388b4567 :: Nightforce NXS 2.5-10x24 scope :: 0
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 544a3f024bdc2d1d388b4568 :: ELCAN Specter OS4x assault scope :: -2
+[better-attachments@3.10.0] COLLIMATOR item: 558022b54bdc2dac148b458d :: EOTech EXPS3 holographic sight (Tan) :: -1
+[better-attachments@3.10.0] FOREGRIP item: 558032614bdc2de7118b4585 :: TangoDown Stubby BGV-MK46K foregrip (Black) :: 9
+[better-attachments@3.10.0] FOREGRIP item: 558032614bdc2de7118b4585 :: TangoDown Stubby BGV-MK46K foregrip (Black) :: 9 :: -2
+[better-attachments@3.10.0] STOCK item: 55d4ae6c4bdc2d8b2f8b456e :: AR-15 High Standard M4SS Stock :: 8
+[better-attachments@3.10.0] STOCK item: 55d4ae6c4bdc2d8b2f8b456e :: AR-15 High Standard M4SS Stock :: 8 :: -24
+[better-attachments@3.10.0] SILENCER item: 55d614004bdc2d86028b4568 :: SureFire SOCOM556-MONSTER 5.56x45 sound suppressor :: -8
+[better-attachments@3.10.0] SILENCER item: 55d617094bdc2d89028b4568 :: KAC QDC 6.5x35 sound suppressor :: -1
+[better-attachments@3.10.0] SILENCER item: 55d6190f4bdc2d87028b4567 :: SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor :: -3
+[better-attachments@3.10.0] STOCK item: 56083a334bdc2dc8488b4571 :: MP-133/153 plastic pistol grip :: 15
+[better-attachments@3.10.0] STOCK item: 56083a334bdc2dc8488b4571 :: MP-133/153 plastic pistol grip :: 15 :: -8
+[better-attachments@3.10.0] STOCK item: 56083be64bdc2d20478b456f :: MP-133/153 plastic stock :: 10
+[better-attachments@3.10.0] STOCK item: 56083be64bdc2d20478b456f :: MP-133/153 plastic stock :: 10 :: -30
+[better-attachments@3.10.0] STOCK item: 56083cba4bdc2de22e8b456f :: MP-133/153 wooden stock :: 10
+[better-attachments@3.10.0] STOCK item: 56083cba4bdc2de22e8b456f :: MP-133/153 wooden stock :: 10 :: -30
+[better-attachments@3.10.0] TACTICAL_COMBO item: 560d657b4bdc2da74d8b4572 :: Zenit Klesch-2P flashlight with laser :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 560e620e4bdc2d724b8b456b :: SV-98 7.62x54R muzzle device :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5649aa744bdc2ded0b8b457e :: AK-74 5.45x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5649ab884bdc2ded0b8b457f :: AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] STOCK item: 5649b0fc4bdc2d17108b4588 :: AK-74 polymer stock :: 9
+[better-attachments@3.10.0] STOCK item: 5649b0fc4bdc2d17108b4588 :: AK-74 polymer stock :: 9 :: -28
+[better-attachments@3.10.0] STOCK item: 5649b1c04bdc2d16268b457c :: AK-74 wooden stock :: 7
+[better-attachments@3.10.0] STOCK item: 5649b1c04bdc2d16268b457c :: AK-74 wooden stock :: 7 :: -28
+[better-attachments@3.10.0] STOCK item: 5649b2314bdc2d79388b4576 :: AKM/AK-74 ME4 buffer tube adapter :: 0
+[better-attachments@3.10.0] STOCK item: 5649b2314bdc2d79388b4576 :: AKM/AK-74 ME4 buffer tube adapter :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 5649be884bdc2d79388b4577 :: AR-15 Colt Carbine buffer tube :: 0 :: -2
+[better-attachments@3.10.0] IRON_SIGHT item: 5649d9a14bdc2d79388b4580 :: AK Taktika Tula TT01 rear sight rail :: 0
+[better-attachments@3.10.0] SILENCER item: 564caa3d4bdc2d17108b458e :: AK-74 TGP-A 5.45x39 sound suppressor :: -12
+[better-attachments@3.10.0] TACTICAL_COMBO item: 56def37dd2720bec348b456a :: SureFire X400 Ultra tactical flashlight with laser :: 0
+[better-attachments@3.10.0] SILENCER item: 56e05b06d2720bb2668b4586 :: PB 9x18PM sound suppressor :: -10
+[better-attachments@3.10.0] FLASH_HIDER item: 56ea6fafd2720b844b8b4593 :: AR-15 Noveske KX3 5.56x45 flash hider :: -1
+[better-attachments@3.10.0] OPTIC_SCOPE item: 56ea70acd2720b844b8b4594 :: Hensoldt FF 4-16x56 34mm riflescope :: -3
+[better-attachments@3.10.0] IRON_SIGHT item: 56ea7293d2720b8d4b8b45ba :: P226 Sight Mount 220-239 rear sight bearing :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 56ea8180d2720bf2698b456a :: AR-15 KAC QDC 5.56x45 Flash Suppressor Kit :: 0
+[better-attachments@3.10.0] STOCK item: 56eabf3bd2720b75698b4569 :: AR-15 Magpul MOE Carbine stock (Black) :: 12
+[better-attachments@3.10.0] STOCK item: 56eabf3bd2720b75698b4569 :: AR-15 Magpul MOE Carbine stock (Black) :: 12 :: -27
+[better-attachments@3.10.0] COLLIMATOR item: 570fd6c2d2720bc6458b457f :: EOTech 553 holographic sight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 570fd721d2720bc5458b4596 :: Walther MRS reflex sight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 570fd79bd2720bc7458b4583 :: OKP-7 reflex sight :: -2
+[better-attachments@3.10.0] SILENCER item: 571a28e524597720b4066567 :: TT 7.62x25 makeshift sound suppressor :: -6
+[better-attachments@3.10.0] COLLIMATOR item: 57486e672459770abd687134 :: OKP-7 reflex sight (Dovetail) :: -2
+[better-attachments@3.10.0] STOCK item: 574dad8024597745964bf05c :: SKS TOZ wooden stock (56-A-231 Sb.5) :: 10
+[better-attachments@3.10.0] STOCK item: 574dad8024597745964bf05c :: SKS TOZ wooden stock (56-A-231 Sb.5) :: 10 :: -14
+[better-attachments@3.10.0] STOCK item: 57616ca52459773c69055192 :: SOK-12 AK-style stock :: 10
+[better-attachments@3.10.0] STOCK item: 57616ca52459773c69055192 :: SOK-12 AK-style stock :: 10 :: -30
+[better-attachments@3.10.0] OPTIC_SCOPE item: 576fd4ec2459777f0b518431 :: BelOMO PSO-1M2-1 4x24 scope :: -3
+[better-attachments@3.10.0] SILENCER item: 57838c962459774a1651ec63 :: VSS 9x39 integral barrel-suppressor :: -2
+[better-attachments@3.10.0] STOCK item: 578395e82459774a0e553c7b :: VSS wooden stock :: 12
+[better-attachments@3.10.0] STOCK item: 578395e82459774a0e553c7b :: VSS wooden stock :: 12 :: -28
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 57ac965c24597706be5f975c :: ELCAN SpecterDR 1x/4x scope :: -2
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 57aca93d2459771f2c7e26db :: ELCAN SpecterDR 1x/4x scope (FDE) :: -2
+[better-attachments@3.10.0] STOCK item: 57ade1442459771557167e15 :: Armacon Baskak stock :: 6
+[better-attachments@3.10.0] STOCK item: 57ade1442459771557167e15 :: Armacon Baskak stock :: 6 :: -32
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 57adff4f24597737f373b6e6 :: SIG Sauer BRAVO4 4x30 scope :: -1
+[better-attachments@3.10.0] SILENCER item: 57c44dd02459772d2e0ae249 :: AS VAL 9x39 integral barrel-suppressor :: -2
+[better-attachments@3.10.0] STOCK item: 57c450252459772d28133253 :: AS VAL skeleton stock :: 14
+[better-attachments@3.10.0] STOCK item: 57c450252459772d28133253 :: AS VAL skeleton stock :: 14 :: -23
+[better-attachments@3.10.0] OPTIC_SCOPE item: 57c5ac0824597754771e88a9 :: March Tactical 3-24x42 FFP 30mm riflescope :: -2
+[better-attachments@3.10.0] FOREGRIP item: 57cffb66245977632f391a99 :: Magpul M-LOK AFG tactical foregrip (Black) :: 11
+[better-attachments@3.10.0] FOREGRIP item: 57cffb66245977632f391a99 :: Magpul M-LOK AFG tactical foregrip (Black) :: 11 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 57cffcd624597763133760c5 :: Magpul M-LOK AFG tactical foregrip (FDE) :: 11
+[better-attachments@3.10.0] FOREGRIP item: 57cffcd624597763133760c5 :: Magpul M-LOK AFG tactical foregrip (FDE) :: 11 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 57cffcdd24597763f5110006 :: Magpul M-LOK AFG tactical foregrip (Olive Drab) :: 11
+[better-attachments@3.10.0] FOREGRIP item: 57cffcdd24597763f5110006 :: Magpul M-LOK AFG tactical foregrip (Olive Drab) :: 11 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 57cffce524597763b31685d8 :: Magpul M-LOK AFG tactical foregrip (Stealth Grey) :: 11
+[better-attachments@3.10.0] FOREGRIP item: 57cffce524597763b31685d8 :: Magpul M-LOK AFG tactical foregrip (Stealth Grey) :: 11 :: -3
+[better-attachments@3.10.0] FLASHLIGHT item: 57d17c5e2459775a5c57d17d :: Ultrafire WF-501B flashlight :: -1
+[better-attachments@3.10.0] SILENCER item: 57da93632459771cb65bf83f :: KAC QDSS NT-4 5.56x45 sound suppressor (Black) :: -10
+[better-attachments@3.10.0] SILENCER item: 57dbb57e2459774673234890 :: KAC QDSS NT-4 5.56x45 sound suppressor (FDE) :: -10
+[better-attachments@3.10.0] FLASH_HIDER item: 57dc324a24597759501edc20 :: AKS-74U 5.45x39 muzzle brake :: -1
+[better-attachments@3.10.0] STOCK item: 57dc347d245977596754e7a1 :: AKS-74U skeletonized stock :: 14
+[better-attachments@3.10.0] STOCK item: 57dc347d245977596754e7a1 :: AKS-74U skeletonized stock :: 14 :: -27
+[better-attachments@3.10.0] SILENCER item: 57f3c8cc2459773ec4480328 :: PP-91-01 Kedr-B 9x18PM sound suppressor :: -8
+[better-attachments@3.10.0] TACTICAL_COMBO item: 57fd23e32459772d0805bcf1 :: Holosun LS321 Tactical device :: -1
+[better-attachments@3.10.0] SILENCER item: 57ffb0e42459777d047111c5 :: AKS-74U PBS-4 5.45x39 sound suppressor :: -12
+[better-attachments@3.10.0] COLLIMATOR item: 58491f3324597764bc48fa02 :: EOTech XPS3-0 holographic sight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 584924ec24597768f12ae244 :: EOTech XPS3-2 holographic sight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 584984812459776a704a82a6 :: VOMZ Pilad P1x42 Weaver reflex sight :: -1
+[better-attachments@3.10.0] STOCK item: 587e0531245977466077a0f7 :: OP-SKS wooden stock :: 10
+[better-attachments@3.10.0] STOCK item: 587e0531245977466077a0f7 :: OP-SKS wooden stock :: 10 :: -14
+[better-attachments@3.10.0] FOREGRIP item: 588226d124597767ad33f787 :: Magpul AFG tactical foregrip (Black) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 588226d124597767ad33f787 :: Magpul AFG tactical foregrip (Black) :: 10 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 588226dd24597767ad33f789 :: Magpul AFG tactical foregrip (FDE) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 588226dd24597767ad33f789 :: Magpul AFG tactical foregrip (FDE) :: 10 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 588226e62459776e3e094af7 :: Magpul AFG tactical foregrip (Forest Green) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 588226e62459776e3e094af7 :: Magpul AFG tactical foregrip (Forest Green) :: 10 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 588226ef24597767af46e39c :: Magpul AFG tactical foregrip (Olive Drab) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 588226ef24597767af46e39c :: Magpul AFG tactical foregrip (Olive Drab) :: 10 :: -3
+[better-attachments@3.10.0] FLASH_HIDER item: 5888996c24597754281f9419 :: DVL-10 M2 7.62x51 muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 58889c7324597754281f9439 :: DVL-10 7.62x51 muzzle device :: -1
+[better-attachments@3.10.0] STOCK item: 58889d0c2459775bc215d981 :: DVL-10 Lobaev Arms stock :: 16
+[better-attachments@3.10.0] STOCK item: 58889d0c2459775bc215d981 :: DVL-10 Lobaev Arms stock :: 16 :: -32
+[better-attachments@3.10.0] FLASH_HIDER item: 58949dea86f77409483e16a8 :: MPX A2 9x19 flash hider :: 0
+[better-attachments@3.10.0] STOCK item: 5894a13e86f7742405482982 :: MPX/MCX Collapsing/Telescoping Stock :: 21
+[better-attachments@3.10.0] STOCK item: 5894a13e86f7742405482982 :: MPX/MCX Collapsing/Telescoping Stock :: 21 :: -23
+[better-attachments@3.10.0] STOCK item: 58ac1bf086f77420ed183f9f :: MPX/MCX Folding Knuckle Stock Adapter :: -1
+[better-attachments@3.10.0] SILENCER item: 58aeac1b86f77457c419f475 :: MPX-SD 9x19 integrated sound suppressor :: -2
+[better-attachments@3.10.0] FOREGRIP item: 58c157be86f77403c74b2bb6 :: TangoDown Stubby BGV-MK46K foregrip (FDE) :: 9
+[better-attachments@3.10.0] FOREGRIP item: 58c157be86f77403c74b2bb6 :: TangoDown Stubby BGV-MK46K foregrip (FDE) :: 9 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 58c157c886f774032749fb06 :: TangoDown Stubby BGV-MK46K foregrip (Stealth Grey) :: 9
+[better-attachments@3.10.0] FOREGRIP item: 58c157c886f774032749fb06 :: TangoDown Stubby BGV-MK46K foregrip (Stealth Grey) :: 9 :: -2
+[better-attachments@3.10.0] STOCK item: 58d2912286f7744e27117493 :: Magpul MOE Carbine rubber buttpad :: 6
+[better-attachments@3.10.0] STOCK item: 58d2912286f7744e27117493 :: Magpul MOE Carbine rubber buttpad :: 6 :: -3
+[better-attachments@3.10.0] STOCK item: 58d2946386f774496974c37e :: AR-15 Magpul MOE Carbine stock (FDE) :: 12
+[better-attachments@3.10.0] STOCK item: 58d2946386f774496974c37e :: AR-15 Magpul MOE Carbine stock (FDE) :: 12 :: -27
+[better-attachments@3.10.0] STOCK item: 58d2946c86f7744e271174b5 :: AR-15 Magpul MOE Carbine stock (Foliage Green) :: 12
+[better-attachments@3.10.0] STOCK item: 58d2946c86f7744e271174b5 :: AR-15 Magpul MOE Carbine stock (Foliage Green) :: 12 :: -27
+[better-attachments@3.10.0] STOCK item: 58d2947686f774485c6a1ee5 :: AR-15 Magpul MOE Carbine stock (Olive Drab) :: 12
+[better-attachments@3.10.0] STOCK item: 58d2947686f774485c6a1ee5 :: AR-15 Magpul MOE Carbine stock (Olive Drab) :: 12 :: -27
+[better-attachments@3.10.0] STOCK item: 58d2947e86f77447aa070d53 :: AR-15 Magpul MOE Carbine stock (Stealth Grey) :: 12
+[better-attachments@3.10.0] STOCK item: 58d2947e86f77447aa070d53 :: AR-15 Magpul MOE Carbine stock (Stealth Grey) :: 12 :: -27
+[better-attachments@3.10.0] STOCK item: 591aef7986f774139d495f03 :: AR-15 TROY M7A1 PDW stock (Black) :: 22
+[better-attachments@3.10.0] STOCK item: 591aef7986f774139d495f03 :: AR-15 TROY M7A1 PDW stock (Black) :: 22 :: -23
+[better-attachments@3.10.0] STOCK item: 591af10186f774139d495f0e :: AR-15 TROY M7A1 PDW stock (FDE) :: 22
+[better-attachments@3.10.0] STOCK item: 591af10186f774139d495f0e :: AR-15 TROY M7A1 PDW stock (FDE) :: 22 :: -23
+[better-attachments@3.10.0] FOREGRIP item: 591af28e86f77414a27a9e1d :: Viking Tactics UVG tactical foregrip :: 9
+[better-attachments@3.10.0] FOREGRIP item: 591af28e86f77414a27a9e1d :: Viking Tactics UVG tactical foregrip :: 9 :: -3
+[better-attachments@3.10.0] COLLIMATOR item: 591c4efa86f7741030027726 :: Axion Kobra EKP-8-18 reflex sight :: -1
+[better-attachments@3.10.0] SILENCER item: 5926d33d86f77410de68ebc0 :: HK MP5SD 9x19 sound suppressor :: -2
+[better-attachments@3.10.0] STOCK item: 5926d3c686f77410de68ebc8 :: HK MP5 A2 stock :: 10
+[better-attachments@3.10.0] STOCK item: 5926d3c686f77410de68ebc8 :: HK MP5 A2 stock :: 10 :: -30
+[better-attachments@3.10.0] STOCK item: 5926d40686f7740f152b6b7e :: HK MP5 A3 old model stock :: 11
+[better-attachments@3.10.0] STOCK item: 5926d40686f7740f152b6b7e :: HK MP5 A3 old model stock :: 11 :: -29
+[better-attachments@3.10.0] SILENCER item: 593d489686f7745c6255d58a :: AKM Hexagon 7.62x39 sound suppressor :: -11
+[better-attachments@3.10.0] SILENCER item: 593d490386f7745ee97a1555 :: SKS Hexagon 7.62x39 sound suppressor :: -10
+[better-attachments@3.10.0] SILENCER item: 593d493f86f7745e6b2ceb22 :: AK-74 Hexagon 5.45x39 sound suppressor :: -11
+[better-attachments@3.10.0] FLASH_HIDER item: 5943ee5a86f77413872d25ec :: AR-15 PWS CQB 5.56x45 muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5943eeeb86f77412d6384f6b :: AK-74 PWS CQB 74 5.45x39 muzzle brake :: -2
+[better-attachments@3.10.0] STOCK item: 5947c73886f7747701588af5 :: AR-15 MFT BUS stock :: 6
+[better-attachments@3.10.0] STOCK item: 5947c73886f7747701588af5 :: AR-15 MFT BUS stock :: 6 :: -28
+[better-attachments@3.10.0] COLLIMATOR item: 5947db3f86f77447880cf76f :: Axion Kobra EKP-8-02 reflex sight (Dovetail) :: -1
+[better-attachments@3.10.0] STOCK item: 5947e98b86f774778f1448bc :: AR-15 Magpul UBR GEN2 stock (Black) :: 11
+[better-attachments@3.10.0] STOCK item: 5947e98b86f774778f1448bc :: AR-15 Magpul UBR GEN2 stock (Black) :: 11 :: -29
+[better-attachments@3.10.0] STOCK item: 5947eab886f77475961d96c5 :: AR-15 Magpul UBR GEN2 stock (FDE) :: 11
+[better-attachments@3.10.0] STOCK item: 5947eab886f77475961d96c5 :: AR-15 Magpul UBR GEN2 stock (FDE) :: 11 :: -29
+[better-attachments@3.10.0] STOCK item: 599851db86f77467372f0a18 :: PP-19-01 Vityaz metal skeleton stock :: 10
+[better-attachments@3.10.0] STOCK item: 599851db86f77467372f0a18 :: PP-19-01 Vityaz metal skeleton stock :: 10 :: -30
+[better-attachments@3.10.0] FLASH_HIDER item: 5998597786f77414ea6da093 :: PP-19-01 Vityaz 9x19 muzzle brake-compensator :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5998598e86f7740b3f498a86 :: Saiga-9 9x19 muzzle brake-compensator :: 0
+[better-attachments@3.10.0] SILENCER item: 59bfc5c886f7743bf6794e62 :: PP-19-01 Vityaz 9x19 sound suppressor :: -8
+[better-attachments@3.10.0] SILENCER item: 59bffbb386f77435b379b9c2 :: SilencerCo Hybrid 46 multi-caliber sound suppressor :: -8
+[better-attachments@3.10.0] SILENCER item: 59c0ec5b86f77435b128bfca :: Hexagon 12K 12ga sound suppressor :: -13
+[better-attachments@3.10.0] STOCK item: 59d6514b86f774171a068a08 :: AKM wooden stock :: 7
+[better-attachments@3.10.0] STOCK item: 59d6514b86f774171a068a08 :: AKM wooden stock :: 7 :: -28
+[better-attachments@3.10.0] FLASHLIGHT item: 59d790f486f77403cb06aec6 :: Armytek Predator Pro v3 XHP35 HI flashlight :: -1
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 59db7e1086f77448be30ddf3 :: Trijicon ACOG TA11D 3.5x35 scope :: -1
+[better-attachments@3.10.0] STOCK item: 59e6227d86f77440d64f5dc2 :: VPO-136 Vepr-KM wooden stock :: 7
+[better-attachments@3.10.0] STOCK item: 59e6227d86f77440d64f5dc2 :: VPO-136 Vepr-KM wooden stock :: 7 :: -28
+[better-attachments@3.10.0] STOCK item: 59e89d0986f77427600d226e :: VPO-209 wooden stock :: 7
+[better-attachments@3.10.0] STOCK item: 59e89d0986f77427600d226e :: VPO-209 wooden stock :: 7 :: -28
+[better-attachments@3.10.0] FLASH_HIDER item: 59e8a00d86f7742ad93b569c :: VPO-209 thread protector :: 5
+[better-attachments@3.10.0] STOCK item: 59ecc3dd86f7746dc827481c :: AK Zenit PT-3 "Klassika" stock :: 15
+[better-attachments@3.10.0] STOCK item: 59ecc3dd86f7746dc827481c :: AK Zenit PT-3 "Klassika" stock :: 15 :: -34
+[better-attachments@3.10.0] FOREGRIP item: 59f8a37386f7747af3328f06 :: Fortis Shift tactical foregrip :: 12
+[better-attachments@3.10.0] FOREGRIP item: 59f8a37386f7747af3328f06 :: Fortis Shift tactical foregrip :: 12 :: -2
+[better-attachments@3.10.0] COLLIMATOR item: 59f9d81586f7744c7506ee62 :: Vortex Razor AMG UH-1 holographic sight :: -2
+[better-attachments@3.10.0] SILENCER item: 59fb257e86f7742981561852 :: AKM Zenit DTK-4M 7.62x39 sound suppressor :: -10
+[better-attachments@3.10.0] FOREGRIP item: 59fc48e086f77463b1118392 :: Magpul RVG foregrip (Black) :: 11
+[better-attachments@3.10.0] FOREGRIP item: 59fc48e086f77463b1118392 :: Magpul RVG foregrip (Black) :: 11 :: -3
+[better-attachments@3.10.0] STOCK item: 59ff3b6a86f77477562ff5ed :: AKMS folding stock :: 13
+[better-attachments@3.10.0] STOCK item: 59ff3b6a86f77477562ff5ed :: AKMS folding stock :: 13 :: -27
+[better-attachments@3.10.0] STOCK item: 5a0c59791526d8dba737bba7 :: AK GP-25 accessory kit recoil pad :: 6
+[better-attachments@3.10.0] STOCK item: 5a0c59791526d8dba737bba7 :: AK GP-25 accessory kit recoil pad :: 6 :: -2
+[better-attachments@3.10.0] SILENCER item: 5a0d63621526d8dba31fe3bf :: AKM PBS-1 7.62x39 sound suppressor :: -12
+[better-attachments@3.10.0] FLASH_HIDER item: 5a0d716f1526d8000d26b1e2 :: AKML system 7.62x39 flash hider :: -1
+[better-attachments@3.10.0] STOCK item: 5a17fb9dfcdbcbcae6687291 :: APB detachable wire stock :: 0 :: -34
+[better-attachments@3.10.0] SPECIAL_SCOPE item: 5a1eaa87fcdbcb001865f75e :: Trijicon REAP-IR thermal scope :: -6
+[better-attachments@3.10.0] SILENCER item: 5a27b6bec4a282000e496f78 :: SR-1MP 9x21 sound suppressor :: -7
+[better-attachments@3.10.0] SILENCER item: 5a32a064c4a28200741e22de :: SilencerCo Osprey 9 9x19 sound suppressor :: -8
+[better-attachments@3.10.0] SILENCER item: 5a33a8ebc4a282000c5a950d :: Alpha Dog Alpha 9 9x19 sound suppressor :: -6
+[better-attachments@3.10.0] STOCK item: 5a33ca0fc4a282000d72292f :: AR-15 Colt A2 buffer tube :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 5a33cae9c4a28232980eb086 :: AR-15 Magpul PRS GEN2 stock (FDE) :: 6
+[better-attachments@3.10.0] STOCK item: 5a33cae9c4a28232980eb086 :: AR-15 Magpul PRS GEN2 stock (FDE) :: 6 :: -30
+[better-attachments@3.10.0] STOCK item: 5a33e75ac4a2826c6e06d759 :: AR-15 Hera Arms CQR pistol grip/buttstock :: 24
+[better-attachments@3.10.0] STOCK item: 5a33e75ac4a2826c6e06d759 :: AR-15 Hera Arms CQR pistol grip/buttstock :: 24 :: -29
+[better-attachments@3.10.0] FLASH_HIDER item: 5a34fd2bc4a282329a73b4c5 :: AR-10 AAC Blackout 51T 7.62x51 flash hider :: 0
+[better-attachments@3.10.0] SILENCER item: 5a34fe59c4a282000b1521a2 :: AAC 762-SDN-6 multi-caliber sound suppressor :: -13
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5a37cb10c4a282329a73b4e7 :: Leupold Mark 4 LR 6.5-20x50 30mm riflescope :: -1
+[better-attachments@3.10.0] STOCK item: 5a38ef1fc4a282000b1521f6 :: TOZ-106 stock :: 10
+[better-attachments@3.10.0] STOCK item: 5a38ef1fc4a282000b1521f6 :: TOZ-106 stock :: 10 :: -30
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5a5f1ce64f39f90b401987bc :: Zenit Klesch-2IKS IR illuminator with laser :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5a70366c8dc32e001207fb06 :: Glock 9x19 Double Diamond flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5a7037338dc32e000d46d257 :: Glock 9x19 CARVER Custom Decelerator 3 Port compensator :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5a705e128dc32e000d46d258 :: Glock 9x19 Lone Wolf AlphaWolf Bullnose compensator :: 0
+[better-attachments@3.10.0] STOCK item: 5a7880d0c5856700142fdd9d :: M870 SPS polymer stock :: 10
+[better-attachments@3.10.0] STOCK item: 5a7880d0c5856700142fdd9d :: M870 SPS polymer stock :: 10 :: -30
+[better-attachments@3.10.0] STOCK item: 5a78813bc5856700186c4abe :: M870 Magpul SGA polymer stock :: 14
+[better-attachments@3.10.0] STOCK item: 5a78813bc5856700186c4abe :: M870 Magpul SGA polymer stock :: 14 :: -37
+[better-attachments@3.10.0] STOCK item: 5a788169c5856700142fdd9e :: M870 Shockwave Raptor grip :: 10
+[better-attachments@3.10.0] STOCK item: 5a788169c5856700142fdd9e :: M870 Shockwave Raptor grip :: 10 :: -8
+[better-attachments@3.10.0] FLASH_HIDER item: 5a7ad0c451dfba0013379712 :: Glock 9x19 CARVER Custom 4 Port compensator :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5a7ad1fb51dfba0013379715 :: Glock 9x19 Lone Wolf LWD-COMP9 compensator :: 0
+[better-attachments@3.10.0] SILENCER item: 5a7ad74e51dfba0015068f45 :: Glock 9x19 Fischer Development FD917 sound suppressor :: -11
+[better-attachments@3.10.0] FLASH_HIDER item: 5a7b32a2e899ef00135e345a :: Glock 9x19 Strike Industries G4 SlideComp compensator :: 0
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5a7b483fe899ef0016170d15 :: SureFire XC1 tactical flashlight :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5a7c147ce899ef00150bd8b8 :: AR-15 Vendetta Precision VP-09 Interceptor 5.56x45 muzzle brake :: -1
+[better-attachments@3.10.0] SPECIAL_SCOPE item: 5a7c74b3e899ef0014332c29 :: NSPU-M 3.5x dovetail night vision scope :: -10
+[better-attachments@3.10.0] FOREGRIP item: 5a7dbfc1159bd40016548fde :: Hera Arms CQR tactical foregrip :: 8
+[better-attachments@3.10.0] FOREGRIP item: 5a7dbfc1159bd40016548fde :: Hera Arms CQR tactical foregrip :: 8 :: -4
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5a800961159bd4315e3a1657 :: Glock GTL 21 tactical flashlight with laser :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5a9ea27ca2750c00137fa672 :: AK Spikes Tactical Dynacomp 7.62x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] STOCK item: 5a9eb32da2750c00171b3f9c :: AR-15 FAB Defense GL-SHOCK buttstock :: 17
+[better-attachments@3.10.0] STOCK item: 5a9eb32da2750c00171b3f9c :: AR-15 FAB Defense GL-SHOCK buttstock :: 17 :: -25
+[better-attachments@3.10.0] SILENCER item: 5a9fb739a2750c003215717f :: Rotor 43 9x19 sound suppressor :: -8
+[better-attachments@3.10.0] SILENCER item: 5a9fbacda2750c00141e080f :: Rotor 43 7.62x39 sound suppressor :: -10
+[better-attachments@3.10.0] SILENCER item: 5a9fbb74a2750c0032157181 :: Rotor 43 .366 TKM sound suppressor :: -11
+[better-attachments@3.10.0] SILENCER item: 5a9fbb84a2750c00137fa685 :: Rotor 43 5.56x45 sound suppressor :: -11
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5aa66be6e5b5b0214e506e97 :: Nightforce ATACR 7-35x56 34mm riflescope :: -4
+[better-attachments@3.10.0] STOCK item: 5aaf8e43e5b5b00015693246 :: M1A SOCOM 16 stock :: 24
+[better-attachments@3.10.0] STOCK item: 5aaf8e43e5b5b00015693246 :: M1A SOCOM 16 stock :: 24 :: -32
+[better-attachments@3.10.0] FLASH_HIDER item: 5aafa1c2e5b5b00015042a56 :: M1A SOCOM 16 7.62x51 muzzle brake-compensator :: 0
+[better-attachments@3.10.0] STOCK item: 5ab372a310e891001717f0d8 :: M14 TROY S.A.S.S. Chassis stock :: 32
+[better-attachments@3.10.0] STOCK item: 5ab372a310e891001717f0d8 :: M14 TROY S.A.S.S. Chassis stock :: 32 :: -9
+[better-attachments@3.10.0] FLASH_HIDER item: 5ab3afb2d8ce87001660304d :: M1A Smith Enterprise SOCOM 16 7.62x51 threaded muzzle brake & gas block :: 0
+[better-attachments@3.10.0] STOCK item: 5ab626e4d8ce87272e4c6e43 :: AKS-74 skeletonized stock :: 14
+[better-attachments@3.10.0] STOCK item: 5ab626e4d8ce87272e4c6e43 :: AKS-74 skeletonized stock :: 14 :: -27
+[better-attachments@3.10.0] SILENCER item: 5abcc328d8ce8700194394f3 :: APB 9x18PM sound suppressor :: -10
+[better-attachments@3.10.0] STOCK item: 5abcd472d8ce8700166032ae :: AKMSN folding stock :: 13
+[better-attachments@3.10.0] STOCK item: 5abcd472d8ce8700166032ae :: AKMSN folding stock :: 13 :: -27
+[better-attachments@3.10.0] STOCK item: 5ac50c185acfc400163398d4 :: AK-74M polymer stock :: 9
+[better-attachments@3.10.0] STOCK item: 5ac50c185acfc400163398d4 :: AK-74M polymer stock :: 9 :: -28
+[better-attachments@3.10.0] FLASH_HIDER item: 5ac72e615acfc43f67248aa0 :: AK-101 5.56x45 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5ac72e725acfc400180ae701 :: AK-102 5.56x45 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5ac72e7d5acfc40016339a02 :: AK-103 7.62x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5ac72e895acfc43b321d4bd5 :: AK-104 7.62x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5ac72e945acfc43f3b691116 :: AK-105 5.45x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5ac7655e5acfc40016339a19 :: AK-74M 5.45x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5addbb6e5acfc408fb1393fd :: M1A National Match 7.62x51 flash suppressor :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5addbb825acfc408fb139400 :: M14 JP Enterprises 7.62x51 Tactical Compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5addbb945acfc4001a5fc44e :: M14 Smith Enterprise Good Iron 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5addbba15acfc400185c2854 :: M14 Smith Enterprise Vortex 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5addbbb25acfc40015621bd9 :: M14 Yankee Hill Phantom 7.62x51 flash hider :: 0
+[better-attachments@3.10.0] STOCK item: 5addbf175acfc408fb13965b :: M1A ProMag Archangel chassis :: 36
+[better-attachments@3.10.0] STOCK item: 5addbf175acfc408fb13965b :: M1A ProMag Archangel chassis :: 36 :: -34
+[better-attachments@3.10.0] STOCK item: 5addc7005acfc4001669f275 :: M14 SAGE International M14ALCS chassis :: 22
+[better-attachments@3.10.0] STOCK item: 5addc7005acfc4001669f275 :: M14 SAGE International M14ALCS chassis :: 22 :: -8
+[better-attachments@3.10.0] STOCK item: 5addc7ac5acfc400194dbd90 :: M14 SAGE International M14ALCS (MOD-0) stock :: 21
+[better-attachments@3.10.0] STOCK item: 5addc7ac5acfc400194dbd90 :: M14 SAGE International M14ALCS (MOD-0) stock :: 21 :: -27
+[better-attachments@3.10.0] STOCK item: 5adf23995acfc400185c2aeb :: MTs 20-01 stock :: 11
+[better-attachments@3.10.0] STOCK item: 5adf23995acfc400185c2aeb :: MTs 20-01 stock :: 11 :: -34
+[better-attachments@3.10.0] STOCK item: 5ae096d95acfc400185c2c81 :: Mosin Rifle standard stock :: 14
+[better-attachments@3.10.0] STOCK item: 5ae096d95acfc400185c2c81 :: Mosin Rifle standard stock :: 14 :: -25
+[better-attachments@3.10.0] STOCK item: 5ae30c9a5acfc408fb139a03 :: AR-15 LMT SOPMOD stock :: 10
+[better-attachments@3.10.0] STOCK item: 5ae30c9a5acfc408fb139a03 :: AR-15 LMT SOPMOD stock :: 10 :: -25
+[better-attachments@3.10.0] STOCK item: 5ae35b315acfc4001714e8b0 :: M870 Mesa Tactical LEO stock adapter :: 14
+[better-attachments@3.10.0] STOCK item: 5afd7ded5acfc40017541f5e :: SKS TAPCO Intrafuse chassis :: 21
+[better-attachments@3.10.0] STOCK item: 5afd7ded5acfc40017541f5e :: SKS TAPCO Intrafuse chassis :: 21 :: -5
+[better-attachments@3.10.0] STOCK item: 5afd7e095acfc40017541f61 :: SKS TAPCO Intrafuse buffer tube :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 5b04473a5acfc40018632f70 :: AKM/AK-74 FAB Defense UAS stock :: 20
+[better-attachments@3.10.0] STOCK item: 5b04473a5acfc40018632f70 :: AKM/AK-74 FAB Defense UAS stock :: 20 :: -34
+[better-attachments@3.10.0] FOREGRIP item: 5b057b4f5acfc4771e1bd3e9 :: Stark SE-5 Express Forward foregrip :: 12
+[better-attachments@3.10.0] FOREGRIP item: 5b057b4f5acfc4771e1bd3e9 :: Stark SE-5 Express Forward foregrip :: 12 :: -3
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5b07dd285acfc4001754240d :: Steiner LAS/TAC 2 tactical flashlight :: 0
+[better-attachments@3.10.0] STOCK item: 5b0800175acfc400153aebd4 :: AR-15 ERGO F93 PRO stock :: 14
+[better-attachments@3.10.0] STOCK item: 5b0800175acfc400153aebd4 :: AR-15 ERGO F93 PRO stock :: 14 :: -27
+[better-attachments@3.10.0] FLASH_HIDER item: 5b099b7d5acfc400186331e4 :: SA-58 3-Prong Trident 7.62x51 flash hider :: 0
+[better-attachments@3.10.0] STOCK item: 5b099bf25acfc4001637e683 :: SA-58 buffer tube adapter :: 0
+[better-attachments@3.10.0] STOCK item: 5b0e794b5acfc47a877359b2 :: AKM/AK-74 Magpul Zhukov-S stock :: 19
+[better-attachments@3.10.0] STOCK item: 5b0e794b5acfc47a877359b2 :: AKM/AK-74 Magpul Zhukov-S stock :: 19 :: -35
+[better-attachments@3.10.0] STOCK item: 5b222d405acfc400153af4fe :: AK Zenit PT-1 "Klassika" stock :: 13
+[better-attachments@3.10.0] STOCK item: 5b222d405acfc400153af4fe :: AK Zenit PT-1 "Klassika" stock :: 13 :: -33
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5b2388675acfc4771e1be0be :: Burris FullField TAC30 1-4x24 30mm riflescope :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 5b30b0dc5acfc400153b7124 :: Holosun HS401G5 reflex sight :: -2
+[better-attachments@3.10.0] SILENCER item: 5b363dd25acfc4001a598fd2 :: SilencerCo Salvo 12 12ga sound suppressor :: -14
+[better-attachments@3.10.0] STOCK item: 5b39f8db5acfc40016387a1b :: AR-15 Vltor EMOD stock :: 13
+[better-attachments@3.10.0] STOCK item: 5b39f8db5acfc40016387a1b :: AR-15 Vltor EMOD stock :: 13 :: -28
+[better-attachments@3.10.0] FLASH_HIDER item: 5b3a16655acfc40016387a2a :: Yankee Hill Annihilator multi-caliber flash hider :: 0
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5b3a337e5acfc4704b4a19a0 :: Zenit Klesch-2U tactical flashlight :: -1
+[better-attachments@3.10.0] SPECIAL_SCOPE item: 5b3b6e495acfc4330140bd88 :: Armasight Vulcan MG 3.5x Bravo night vision scope :: -7
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5b3b99475acfc432ff4dcbee :: EOTech Vudu 1-6x24 30mm riflescope :: -1
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5b3f7c1c5acfc40dc5296b1d :: PU 3.5x riflescope :: -2
+[better-attachments@3.10.0] STOCK item: 5b7d63b75acfc400170e2f8a :: SA-58/FAL Magpul PRS 2 polymer stock :: 20
+[better-attachments@3.10.0] STOCK item: 5b7d63b75acfc400170e2f8a :: SA-58/FAL Magpul PRS 2 polymer stock :: 20 :: -30
+[better-attachments@3.10.0] STOCK item: 5b7d63cf5acfc4001876c8df :: SA-58 folding stock :: 7
+[better-attachments@3.10.0] STOCK item: 5b7d63cf5acfc4001876c8df :: SA-58 folding stock :: 7 :: -28
+[better-attachments@3.10.0] STOCK item: 5b7d63de5acfc400170e2f8d :: SA-58 SPR stock :: 11
+[better-attachments@3.10.0] STOCK item: 5b7d63de5acfc400170e2f8d :: SA-58 SPR stock :: 11 :: -32
+[better-attachments@3.10.0] STOCK item: 5b7d64555acfc4001876c8e2 :: SA-58 BRS stock :: 13
+[better-attachments@3.10.0] STOCK item: 5b7d64555acfc4001876c8e2 :: SA-58 BRS stock :: 13 :: -32
+[better-attachments@3.10.0] STOCK item: 5b7d645e5acfc400170e2f90 :: SA-58 humpback polymer stock :: -2
+[better-attachments@3.10.0] STOCK item: 5b7d645e5acfc400170e2f90 :: SA-58 humpback polymer stock :: -2 :: -28
+[better-attachments@3.10.0] FLASH_HIDER item: 5b7d68af5acfc400170e30c3 :: SA-58 Austrian Style 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5b7d693d5acfc43bca706a3d :: AR-10 2A Armanent X3 7.62x51 compensator :: 0
+[better-attachments@3.10.0] SILENCER item: 5b86a0e586f7745b600ccb23 :: Mosin Rifle Bramit 7.62x54R sound suppressor :: -10
+[better-attachments@3.10.0] FLASH_HIDER item: 5ba26acdd4351e003562908e :: HK MP7A1 4.6x30 flash hider :: 0
+[better-attachments@3.10.0] SILENCER item: 5ba26ae8d4351e00367f9bdb :: HK MP7 B&T Rotex 2 4.6x30 sound suppressor :: -10
+[better-attachments@3.10.0] STOCK item: 5bae13bad4351e00320204af :: Mosin Rifle ProMag Archangel OPFOR PRS chassis :: 44
+[better-attachments@3.10.0] STOCK item: 5bae13bad4351e00320204af :: Mosin Rifle ProMag Archangel OPFOR PRS chassis :: 44 :: -34
+[better-attachments@3.10.0] STOCK item: 5bb20e58d4351e00320205d7 :: HK Enhanced Tube buffer tube :: 0 :: -3
+[better-attachments@3.10.0] STOCK item: 5bb20e70d4351e0035629f8f :: AR-15 HK Slim Line buttstock :: 9
+[better-attachments@3.10.0] STOCK item: 5bb20e70d4351e0035629f8f :: AR-15 HK Slim Line buttstock :: 9 :: -27
+[better-attachments@3.10.0] FLASH_HIDER item: 5bbdb83fd4351e44f824c44b :: Mosin Rifle Tacfire Tanker Style 7.62x54R muzzle brake :: -1
+[better-attachments@3.10.0] STOCK item: 5bbdb870d4351e00367fb67d :: Mosin Rifle ATI Monte Carlo stock :: 26
+[better-attachments@3.10.0] STOCK item: 5bbdb870d4351e00367fb67d :: Mosin Rifle ATI Monte Carlo stock :: 26 :: -30
+[better-attachments@3.10.0] FLASH_HIDER item: 5bbdb8bdd4351e4502011460 :: AR-10 Odin Works ATLAS-7 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] STOCK item: 5bbde409d4351e003562b036 :: Mosin Rifle AIM Sports Recoil Pad :: 10
+[better-attachments@3.10.0] STOCK item: 5bbde409d4351e003562b036 :: Mosin Rifle AIM Sports Recoil Pad :: 10 :: -3
+[better-attachments@3.10.0] IRON_SIGHT item: 5bc09a18d4351e003562b68e :: Magpul MBUS Gen2 flip-up rear sight :: 5
+[better-attachments@3.10.0] IRON_SIGHT item: 5bc09a30d4351e00367fb7c8 :: Magpul MBUS Gen2 flip-up front sight :: 5
+[better-attachments@3.10.0] FLASH_HIDER item: 5bc5a351d4351e003477a414 :: Mosin Rifle Texas Precision Products 7.62x54R muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5bc5a35cd4351e450201232f :: Mosin Rifle Witt Machine 7.62x54R muzzle brake :: 0
+[better-attachments@3.10.0] STOCK item: 5bcf0213d4351e0085327c17 :: HK MP7A1 stock :: 7
+[better-attachments@3.10.0] STOCK item: 5bcf0213d4351e0085327c17 :: HK MP7A1 stock :: 7 :: -15
+[better-attachments@3.10.0] STOCK item: 5bd704e7209c4d00d7167c31 :: HK MP7A2 stock :: 7
+[better-attachments@3.10.0] STOCK item: 5bd704e7209c4d00d7167c31 :: HK MP7A2 stock :: 7 :: -15
+[better-attachments@3.10.0] FLASH_HIDER item: 5beec3420db834001b095429 :: RPK-16 5.45x39 muzzle brake-compensator :: 0
+[better-attachments@3.10.0] STOCK item: 5beec8b20db834001961942a :: RPK-16 buffer tube :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 5beec8c20db834001d2c465c :: AK-12 stock :: 7
+[better-attachments@3.10.0] STOCK item: 5beec8c20db834001d2c465c :: AK-12 stock :: 7 :: -27
+[better-attachments@3.10.0] STOCK item: 5bfd35380db83400232fe5cc :: Mosin Rifle Infantry stock :: 13
+[better-attachments@3.10.0] STOCK item: 5bfd35380db83400232fe5cc :: Mosin Rifle Infantry stock :: 13 :: -25
+[better-attachments@3.10.0] STOCK item: 5bfd36290db834001966869a :: Mosin Rifle sawed-off sniper stock :: 20
+[better-attachments@3.10.0] STOCK item: 5bfd36290db834001966869a :: Mosin Rifle sawed-off sniper stock :: 20 :: -4
+[better-attachments@3.10.0] STOCK item: 5bfd36ad0db834001c38ef66 :: Mosin Rifle sawed-off stock :: 20
+[better-attachments@3.10.0] STOCK item: 5bfd36ad0db834001c38ef66 :: Mosin Rifle sawed-off stock :: 20 :: -4
+[better-attachments@3.10.0] STOCK item: 5bfd37c80db834001d23e842 :: Mosin Rifle sniper carbine stock :: 15
+[better-attachments@3.10.0] STOCK item: 5bfd37c80db834001d23e842 :: Mosin Rifle sniper carbine stock :: 15 :: -24
+[better-attachments@3.10.0] STOCK item: 5bfd384c0db834001a6691d3 :: Mosin Rifle carbine stock :: 18
+[better-attachments@3.10.0] STOCK item: 5bfd384c0db834001a6691d3 :: Mosin Rifle carbine stock :: 18 :: -24
+[better-attachments@3.10.0] STOCK item: 5bfe86df0db834001b734685 :: AR-15 FAB Defense GLR-16-S stock :: 17
+[better-attachments@3.10.0] STOCK item: 5bfe86df0db834001b734685 :: AR-15 FAB Defense GLR-16-S stock :: 17 :: -25
+[better-attachments@3.10.0] STOCK item: 5bfe89510db834001808a127 :: FAB Defense buffer tube for AGR-870 :: 0 :: -3
+[better-attachments@3.10.0] STOCK item: 5bfeb32b0db834001a6694d9 :: M700 Hogue Overmolded Ghillie stock :: 18
+[better-attachments@3.10.0] STOCK item: 5bfeb32b0db834001a6694d9 :: M700 Hogue Overmolded Ghillie stock :: 18 :: -27
+[better-attachments@3.10.0] FLASH_HIDER item: 5bffd7ed0db834001d23ebf9 :: TT PM-Laser DTK-TT muzzle brake-compensator :: 0
+[better-attachments@3.10.0] COLLIMATOR item: 5c0505e00db834001b735073 :: Valday PK-120 (1P87) holographic sight :: -2
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 5c0517910db83400232ffee5 :: Valday PS-320 1/6x scope :: -2
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 5c05293e0db83400232fff80 :: Trijicon ACOG TA01NSN 4x32 scope (Black) :: -1
+[better-attachments@3.10.0] IRON_SIGHT item: 5c05295e0db834001a66acbb :: Trijicon ACOG backup rear sight :: 5
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 5c052a900db834001a66acbd :: Trijicon ACOG TA01NSN 4x32 scope (Tan) :: -1
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5c06595c0db834001a66af6c :: L3Harris LA-5B/PEQ tactical device :: -1
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5c079ed60db834001a66b372 :: TT DLP Tactical Precision Laser Sight :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5c07c5ed0db834001b73571c :: HK MP5 Noveske-style 9x19 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] STOCK item: 5c07c9660db834001a66b588 :: HK MP5 End Cap stock :: 7
+[better-attachments@3.10.0] COLLIMATOR item: 5c07dd120db834001c39092d :: EOTech HHS-1 hybrid sight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 5c0a2cec0db834001b7ce47d :: EOTech HHS-1 hybrid sight (Tan) :: -1
+[better-attachments@3.10.0] STOCK item: 5c0e2ff6d174af02a1659d4a :: AR-15 ADAR 2-15 wooden stock :: 17
+[better-attachments@3.10.0] STOCK item: 5c0e2ff6d174af02a1659d4a :: AR-15 ADAR 2-15 wooden stock :: 17 :: -25
+[better-attachments@3.10.0] STOCK item: 5c0faeddd174af02a962601f :: AR-15 ADAR 2-15 buffer tube :: 0 :: -2
+[better-attachments@3.10.0] FLASH_HIDER item: 5c0fafb6d174af02a96260ba :: AR-15 ADAR 2-15 5.56x45 flash hider :: 0
+[better-attachments@3.10.0] IRON_SIGHT item: 5c1780312e221602b66cc189 :: KAC Folding rear sight :: 5
+[better-attachments@3.10.0] IRON_SIGHT item: 5c17804b2e2216152006c02f :: KAC Folding front sight :: 5
+[better-attachments@3.10.0] IRON_SIGHT item: 5c18b90d2e2216152142466b :: Magpul MBUS Gen2 flip-up front sight (FDE) :: 5
+[better-attachments@3.10.0] IRON_SIGHT item: 5c18b9192e2216398b5a8104 :: Magpul MBUS Gen2 flip-up rear sight (FDE) :: 5
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc4812e22164bef5cfde7 :: Zenit RK-0 tactical foregrip :: 7
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc4812e22164bef5cfde7 :: Zenit RK-0 tactical foregrip :: 7 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc5612e221602b5429350 :: Zenit RK-1 tactical foregrip :: 5
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc5612e221602b5429350 :: Zenit RK-1 tactical foregrip :: 5 :: -4
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc5af2e221602b412949b :: Zenit RK-2 tactical foregrip :: -4
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc5af2e221602b412949b :: Zenit RK-2 tactical foregrip :: -4 :: -5
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc5fb2e221602b1779b32 :: Zenit RK-4 tactical foregrip :: 8
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc5fb2e221602b1779b32 :: Zenit RK-4 tactical foregrip :: 8 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc7432e221602b412949d :: Zenit RK-5 tactical foregrip :: 9
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc7432e221602b412949d :: Zenit RK-5 tactical foregrip :: 9 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc7752e221602b1779b34 :: Zenit RK-6 tactical foregrip :: 9
+[better-attachments@3.10.0] FOREGRIP item: 5c1bc7752e221602b1779b34 :: Zenit RK-6 tactical foregrip :: 9 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 5c1cd46f2e22164bef5cfedb :: Zenit RK-1 tactical foregrip on B-25U mount :: 6
+[better-attachments@3.10.0] FOREGRIP item: 5c1cd46f2e22164bef5cfedb :: Zenit RK-1 tactical foregrip on B-25U mount :: 6 :: -4
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 5c1cdd512e22161b267d91ae :: Kiba Arms Short Prism 2.5x scope :: -1
+[better-attachments@3.10.0] STOCK item: 5c471b5d2e221602b21d4e14 :: SVDS polymer stock :: 12
+[better-attachments@3.10.0] STOCK item: 5c471b5d2e221602b21d4e14 :: SVDS polymer stock :: 12 :: -28
+[better-attachments@3.10.0] FLASH_HIDER item: 5c471bfc2e221602b21d4e17 :: SVDS 7.62x54R muzzle brake-compensator :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5c48a2a42e221602b66d1e07 :: Desert Tech 5.56x45 flash hider :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5c4ee3d62e2216152006f302 :: SV-98 SRVV Mk.2.0 7.62x54R muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5c4eec9b2e2216398b5aaba2 :: SV-98 7.62x54R thread adapter :: -1
+[better-attachments@3.10.0] SILENCER item: 5c4eecc32e221602b412b440 :: SV-98 7.62x54R sound suppressor :: -11
+[better-attachments@3.10.0] STOCK item: 5c503af12e221602b177ca02 :: VPO-101 wooden stock :: 22
+[better-attachments@3.10.0] STOCK item: 5c503af12e221602b177ca02 :: VPO-101 wooden stock :: 22 :: -28
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5c5952732e2216398b5abda2 :: Zenit Perst-3 tactical device :: -1
+[better-attachments@3.10.0] STOCK item: 5c5db6ee2e221600113fba54 :: MPX/MCX Maxim Defense CQB stock :: 19
+[better-attachments@3.10.0] STOCK item: 5c5db6ee2e221600113fba54 :: MPX/MCX Maxim Defense CQB stock :: 19 :: -27
+[better-attachments@3.10.0] STOCK item: 5c5db6f82e2216003a0fe914 :: MPX/MCX PMM ULSS foldable stock :: 7
+[better-attachments@3.10.0] STOCK item: 5c5db6f82e2216003a0fe914 :: MPX/MCX PMM ULSS foldable stock :: 7 :: -29
+[better-attachments@3.10.0] SILENCER item: 5c6165902e22160010261b28 :: SIG Sauer SRD9 9x19 sound suppressor :: -7
+[better-attachments@3.10.0] FLASH_HIDER item: 5c6beec32e221601da3578f2 :: P226 TJ's Custom 9x19 compensator :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5c6d710d2e22165df16b81e7 :: AR-15 SureFire WarComp 5.56x45 flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5c78f2882e22165df16b832e :: AR-15 SAI JailBrake 5.56x45 muzzle device :: -1
+[better-attachments@3.10.0] FOREGRIP item: 5c791e872e2216001219c40a :: Strike Industries Cobra Tactical foregrip :: 13
+[better-attachments@3.10.0] FOREGRIP item: 5c791e872e2216001219c40a :: Strike Industries Cobra Tactical foregrip :: 13 :: -2
+[better-attachments@3.10.0] STOCK item: 5c793fb92e221644f31bfb64 :: AR-15 Strike Industries Advanced Receiver Extension buffer tube :: 6
+[better-attachments@3.10.0] STOCK item: 5c793fb92e221644f31bfb64 :: AR-15 Strike Industries Advanced Receiver Extension buffer tube :: 6 :: -3
+[better-attachments@3.10.0] STOCK item: 5c793fc42e221600114ca25d :: AR-15 Strike Industries Advanced Receiver Extension buffer tube (Anodized Red) :: 6
+[better-attachments@3.10.0] STOCK item: 5c793fc42e221600114ca25d :: AR-15 Strike Industries Advanced Receiver Extension buffer tube (Anodized Red) :: 6 :: -3
+[better-attachments@3.10.0] STOCK item: 5c793fde2e221601da358614 :: AR-15 Strike Industries Viper Mod 1 stock :: 15
+[better-attachments@3.10.0] STOCK item: 5c793fde2e221601da358614 :: AR-15 Strike Industries Viper Mod 1 stock :: 15 :: -27
+[better-attachments@3.10.0] FLASH_HIDER item: 5c7951452e221644f31bfd5c :: AK Venom Tactical Antidote 7.62x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] SILENCER item: 5c7955c22e221644f31bfd5e :: Gemtech ONE multi-caliber sound suppressor :: -10
+[better-attachments@3.10.0] COLLIMATOR item: 5c7d55de2e221644f31bff68 :: Aimpoint CompM4 reflex sight :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5c7e5f112e221600106f4ede :: AR-15 AAC Blackout 51T 5.56x45 flash hider :: 0
+[better-attachments@3.10.0] SILENCER item: 5c7e8fab2e22165df16b889b :: AAC Illusion 9 9x19 sound suppressor :: -7
+[better-attachments@3.10.0] FLASH_HIDER item: 5c7fb51d2e2216001219ce11 :: AR-15 SureFire SF3P 5.56x45 Flash hider :: 0
+[better-attachments@3.10.0] FOREGRIP item: 5c7fc87d2e221644f31c0298 :: BCM GUNFIGHTER MOD 3 vertical foregrip :: 10
+[better-attachments@3.10.0] FOREGRIP item: 5c7fc87d2e221644f31c0298 :: BCM GUNFIGHTER MOD 3 vertical foregrip :: 10 :: -2
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5c82342f2e221644f31c060e :: BelOMO PSO-1 4x24 scope :: -3
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5c82343a2e221644f31c0611 :: BelOMO PSO-1M2 4x24 scope :: -3
+[better-attachments@3.10.0] FLASH_HIDER item: 5c878e9d2e2216000f201903 :: AR-10 Lantac Dragon 7.62x51 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5c878ebb2e2216001219d48a :: AK Lantac Drakon 7.62x39 muzzle brake :: -1
+[better-attachments@3.10.0] STOCK item: 5c87a07c2e2216001219d4a2 :: AR-15 HK E1 buttstock :: 8
+[better-attachments@3.10.0] STOCK item: 5c87a07c2e2216001219d4a2 :: AR-15 HK E1 buttstock :: 8 :: -29
+[better-attachments@3.10.0] FOREGRIP item: 5c87ca002e221600114cb150 :: KAC vertical foregrip :: 11
+[better-attachments@3.10.0] STOCK item: 5c99f3592e221644fc633070 :: TOZ-106 custom cut Mosin stock :: 13
+[better-attachments@3.10.0] STOCK item: 5c99f3592e221644fc633070 :: TOZ-106 custom cut Mosin stock :: 13 :: -37
+[better-attachments@3.10.0] IRON_SIGHT item: 5cadd954ae921500103bb3c2 :: M9A3 Sight Mount rear sight rail :: -1
+[better-attachments@3.10.0] IRON_SIGHT item: 5caf1691ae92152ac412efb9 :: ASh-12 rear sight carry handle :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5caf17c9ae92150b30006be1 :: ASh-12 12.7x55 muzzle brake-compensator :: 0
+[better-attachments@3.10.0] SILENCER item: 5caf187cae92157c28402e43 :: ASh-12 12.7x55 sound suppressor :: -10
+[better-attachments@3.10.0] STOCK item: 5cbdb1b0ae9215000d50e105 :: AK-74 polymer stock (Plum) :: 9
+[better-attachments@3.10.0] STOCK item: 5cbdb1b0ae9215000d50e105 :: AK-74 polymer stock (Plum) :: 9 :: -28
+[better-attachments@3.10.0] STOCK item: 5cc700b9e4a949000f0f0f25 :: FN P90 stock :: 30
+[better-attachments@3.10.0] STOCK item: 5cc700b9e4a949000f0f0f25 :: FN P90 stock :: 30 :: -8
+[better-attachments@3.10.0] STOCK item: 5cc700cae4a949035e43ba72 :: FN P90 buttpad :: 6
+[better-attachments@3.10.0] STOCK item: 5cc700cae4a949035e43ba72 :: FN P90 buttpad :: 6 :: -2
+[better-attachments@3.10.0] STOCK item: 5cc700d4e4a949000f0f0f28 :: FN P90 Damage Industries buttpad :: 6
+[better-attachments@3.10.0] STOCK item: 5cc700d4e4a949000f0f0f28 :: FN P90 Damage Industries buttpad :: 6 :: -3
+[better-attachments@3.10.0] FLASH_HIDER item: 5cc82796e24e8d000f5859a8 :: FN P90 5.7x28 flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5cc9a96cd7f00c011c04e04a :: AK-74 SRVV MBR Jet 5.45x39 muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5cc9ad73d7f00c000e2579d4 :: AK SRVV 7.62x39 muzzle brake-compensator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5cc9b815d7f00c000e2579d6 :: AR-15 TROY Claymore 5.56x45 muzzle brake :: -1
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5cc9c20cd7f00c001336c65d :: NcSTAR Tactical Blue Laser :: 0
+[better-attachments@3.10.0] FOREGRIP item: 5cda9bcfd7f00c0c0b53e900 :: ASh-12 vertical foregrip :: 9
+[better-attachments@3.10.0] FLASH_HIDER item: 5cdd7685d7f00c000f260ed2 :: AR-10 Keeno Arms SHREWD 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5cdd7693d7f00c0010373aa5 :: AR-10 Precision Armanent M11 Severe-Duty 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] STOCK item: 5cde739cd7f00c0010373bd3 :: M700 AB Arms MOD*X GEN 3 chassis :: 17
+[better-attachments@3.10.0] STOCK item: 5cde739cd7f00c0010373bd3 :: M700 AB Arms MOD*X GEN 3 chassis :: 17 :: -8
+[better-attachments@3.10.0] STOCK item: 5cde77a9d7f00c000f261009 :: M700 AB Arms MOD*X buffer tube side folder adapter :: 0
+[better-attachments@3.10.0] STOCK item: 5cdeac22d7f00c000f26168f :: M700 Magpul Pro 700 chassis :: 26
+[better-attachments@3.10.0] STOCK item: 5cdeac22d7f00c000f26168f :: M700 Magpul Pro 700 chassis :: 26 :: -7
+[better-attachments@3.10.0] STOCK item: 5cdeac42d7f00c000d36ba73 :: M700 Magpul Pro 700 folding stock :: 24
+[better-attachments@3.10.0] STOCK item: 5cdeac42d7f00c000d36ba73 :: M700 Magpul Pro 700 folding stock :: 24 :: -23
+[better-attachments@3.10.0] SILENCER item: 5cebec00d7f00c065c53522a :: FN P90 Attenuator 5.7x28 sound suppressor :: -8
+[better-attachments@3.10.0] STOCK item: 5cebec10d7f00c065703d185 :: FN PS90 stock :: 30
+[better-attachments@3.10.0] STOCK item: 5cebec10d7f00c065703d185 :: FN PS90 stock :: 30 :: -8
+[better-attachments@3.10.0] COLLIMATOR item: 5cebec38d7f00c00110a652a :: FN P90 Ring Sight reflex sight :: 0
+[better-attachments@3.10.0] STOCK item: 5cf13123d7f00c1085616a50 :: M700 ProMag Archangel chassis :: 32
+[better-attachments@3.10.0] STOCK item: 5cf13123d7f00c1085616a50 :: M700 ProMag Archangel chassis :: 32 :: -32
+[better-attachments@3.10.0] FOREGRIP item: 5cf4fb76d7f00c065703d3ac :: RTM Pillau tactical foregrip :: 8
+[better-attachments@3.10.0] FOREGRIP item: 5cf4fb76d7f00c065703d3ac :: RTM Pillau tactical foregrip :: 8 :: -2
+[better-attachments@3.10.0] STOCK item: 5cf50fc5d7f00c056c53f83c :: AK-74M CAA AKTS AK74 buffer tube :: 0
+[better-attachments@3.10.0] STOCK item: 5cf50fc5d7f00c056c53f83c :: AK-74M CAA AKTS AK74 buffer tube :: 0 :: -3
+[better-attachments@3.10.0] STOCK item: 5cf518cfd7f00c065b422214 :: AKM/AK-74 CAA AKTS buffer tube :: 0
+[better-attachments@3.10.0] STOCK item: 5cf518cfd7f00c065b422214 :: AKM/AK-74 CAA AKTS buffer tube :: 0 :: -3
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5cf638cbd7f00c06595bc936 :: NPZ USP-1 Tyulpan 4x scope :: -3
+[better-attachments@3.10.0] FLASH_HIDER item: 5cf6935bd7f00c06585fb791 :: TACCOM Carbine Brake 9x19 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5cf6937cd7f00c056c53fb39 :: AR-15 Bulletec ST-6012 5.56x45 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5cf78720d7f00c06595bc93e :: Lantac BMD 7.62x51 Blast Mitigation Device :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5cff9e5ed7ad1a09407397d4 :: AR-15 Daniel Defense WAVE 5.56x45 muzzle brake :: 0
+[better-attachments@3.10.0] SILENCER item: 5cff9e84d7ad1a049e54ed55 :: Daniel Defense WAVE QD sound suppressor :: -8
+[better-attachments@3.10.0] STOCK item: 5d0236dad7ad1a0940739d29 :: SKS FAB Defense UAS chassis :: 16
+[better-attachments@3.10.0] STOCK item: 5d0236dad7ad1a0940739d29 :: SKS FAB Defense UAS chassis :: 16 :: -34
+[better-attachments@3.10.0] FLASH_HIDER item: 5d02676dd7ad1a049e54f6dc :: AR-15 Nordic Components Corvette 5.56x45 compensator :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5d02677ad7ad1a04a15c0f95 :: AR-10 Nordic Components Corvette 7.62x51 compensator :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5d026791d7ad1a04a067ea63 :: AR-10 Fortis RED Brake 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5d0a3a58d7ad1a669c15ca14 :: KMZ 1P59 3-10x riflescope :: -4
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5d0a3e8cd7ad1a6f6a3d35bd :: KMZ 1P69 3-10x riflescope :: -4
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5d10b49bd7ad1a1a560708b0 :: Insight AN/PEQ-2 tactical device :: -1
+[better-attachments@3.10.0] STOCK item: 5d120a10d7ad1a4e1026ba85 :: AR-15 DoubleStar ACE SOCOM Gen.4 stock :: 8
+[better-attachments@3.10.0] STOCK item: 5d120a10d7ad1a4e1026ba85 :: AR-15 DoubleStar ACE SOCOM Gen.4 stock :: 8 :: -28
+[better-attachments@3.10.0] STOCK item: 5d120a28d7ad1a1c8962e295 :: DoubleStar ACE recoil pad :: 6
+[better-attachments@3.10.0] STOCK item: 5d120a28d7ad1a1c8962e295 :: DoubleStar ACE recoil pad :: 6 :: -3
+[better-attachments@3.10.0] STOCK item: 5d135e83d7ad1a21b83f42d8 :: AR-15 Magpul CTR Carbine stock (Black) :: 14
+[better-attachments@3.10.0] STOCK item: 5d135e83d7ad1a21b83f42d8 :: AR-15 Magpul CTR Carbine stock (Black) :: 14 :: -28
+[better-attachments@3.10.0] STOCK item: 5d135ecbd7ad1a21c176542e :: AR-15 Magpul CTR Carbine stock (FDE) :: 14
+[better-attachments@3.10.0] STOCK item: 5d135ecbd7ad1a21c176542e :: AR-15 Magpul CTR Carbine stock (FDE) :: 14 :: -28
+[better-attachments@3.10.0] SPECIAL_SCOPE item: 5d1b5e94d7ad1a2b865a96b0 :: FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope :: -5
+[better-attachments@3.10.0] STOCK item: 5d1c702ad7ad1a632267f429 :: Glock FAB Defense GLR-17 stock :: 8
+[better-attachments@3.10.0] STOCK item: 5d1c702ad7ad1a632267f429 :: Glock FAB Defense GLR-17 stock :: 8 :: -29
+[better-attachments@3.10.0] FLASH_HIDER item: 5d1f819086f7744b355c219b :: AR-10 Daniel Defense WAVE 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] TACTICAL_COMBO item: 5d2369418abbc306c62e0c80 :: Steiner DBAL-PL tactical device :: 0
+[better-attachments@3.10.0] STOCK item: 5d25d0ac8abbc3054f3e61f7 :: M700 AI AT AICS polymer chassis :: 42
+[better-attachments@3.10.0] STOCK item: 5d25d0ac8abbc3054f3e61f7 :: M700 AI AT AICS polymer chassis :: 42 :: -30
+[better-attachments@3.10.0] COLLIMATOR item: 5d2da1e948f035477b1ce2ba :: Trijicon SRS-02 reflex sight :: 0
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 5d2dc3e548f035404a1a4798 :: Monstrum Tactical Compact Prism Scope 2x32 :: -1
+[better-attachments@3.10.0] STOCK item: 5d2f25bc48f03502573e5d85 :: HK MP5K End Cap stock :: 7
+[better-attachments@3.10.0] SILENCER item: 5d3ef698a4b9361182109872 :: Gemtech SFN-57 5.7x28 sound suppressor :: -7
+[better-attachments@3.10.0] FLASH_HIDER item: 5d440625a4b9361eec4ae6c5 :: AR-15 Thunder Beast Arms 223CB 5.56x45 muzzle brake :: -1
+[better-attachments@3.10.0] SILENCER item: 5d44064fa4b9361e4f6eb8b5 :: Thunder Beast Arms Ultra 5 sound suppressor :: -11
+[better-attachments@3.10.0] STOCK item: 5d44069ca4b9361ebd26fc37 :: AR-15 Magpul PRS GEN3 stock (Black) :: 7
+[better-attachments@3.10.0] STOCK item: 5d44069ca4b9361ebd26fc37 :: AR-15 Magpul PRS GEN3 stock (Black) :: 7 :: -30
+[better-attachments@3.10.0] STOCK item: 5d4406a8a4b9361e4f6eb8b7 :: AR-15 Magpul PRS GEN3 stock (Grey) :: 7
+[better-attachments@3.10.0] STOCK item: 5d4406a8a4b9361e4f6eb8b7 :: AR-15 Magpul PRS GEN3 stock (Grey) :: 7 :: -30
+[better-attachments@3.10.0] FLASH_HIDER item: 5d443f8fa4b93678dd4a01aa :: AR-10 Thunder Beast Arms 30CB 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5d53f4b7a4b936793d58c780 :: PAG-17 scope :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5dcbe965e4ed22586443a79d :: Desert Tech 7.62x51 flash hider :: -1
+[better-attachments@3.10.0] STOCK item: 5de655be4a9f347bc92edb88 :: VPO-215 wooden stock :: 21
+[better-attachments@3.10.0] STOCK item: 5de655be4a9f347bc92edb88 :: VPO-215 wooden stock :: 21 :: -35
+[better-attachments@3.10.0] SILENCER item: 5de8f2d5b74cd90030650c72 :: MP9 9x19 sound suppressor :: -8
+[better-attachments@3.10.0] FOREGRIP item: 5de8fbad2fbe23140d3ee9c4 :: MP9-N vertical foregrip :: 10
+[better-attachments@3.10.0] STOCK item: 5de910da8b6c4240ba2651b5 :: MP9 stock :: 7
+[better-attachments@3.10.0] STOCK item: 5de910da8b6c4240ba2651b5 :: MP9 stock :: 7 :: -17
+[better-attachments@3.10.0] STOCK item: 5df35ddddfc58d14537c2036 :: ORSIS T-5000M stock :: 15
+[better-attachments@3.10.0] STOCK item: 5df35ddddfc58d14537c2036 :: ORSIS T-5000M stock :: 15 :: -23
+[better-attachments@3.10.0] STOCK item: 5df35e59c41b2312ea3334d5 :: ORSIS T-5000M aluminium body :: 20
+[better-attachments@3.10.0] STOCK item: 5df35e59c41b2312ea3334d5 :: ORSIS T-5000M aluminium body :: 20 :: -2
+[better-attachments@3.10.0] FLASH_HIDER item: 5df35e7f2a78646d96665dd4 :: ORSIS T-5000M 7.62x51 muzzle brake-compensator :: 0
+[better-attachments@3.10.0] FOREGRIP item: 5df36948bb49d91fb446d5ad :: ORSIS T-5000M padded handguard grip :: 10
+[better-attachments@3.10.0] FOREGRIP item: 5df36948bb49d91fb446d5ad :: ORSIS T-5000M padded handguard grip :: 10 :: -2
+[better-attachments@3.10.0] FLASH_HIDER item: 5dfa3cd1b33c0951220c079b :: AR-10 KAC QDC 7.62x51 Flash Suppressor Kit :: 0
+[better-attachments@3.10.0] SILENCER item: 5dfa3d2b0dee1b22f862eade :: KAC PRS/QDC 7.62x51 sound suppressor :: -11
+[better-attachments@3.10.0] IRON_SIGHT item: 5dfa3d7ac41b2312ea33362a :: KAC Folding Micro rear sight :: 5
+[better-attachments@3.10.0] IRON_SIGHT item: 5dfa3d950dee1b22f862eae0 :: KAC Folding Micro front sight :: 5
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5dfe6104585a0c3e995c7b82 :: NcSTAR ADO P4 Sniper 3-9x42 riflescope :: -1
+[better-attachments@3.10.0] OPTIC_SCOPE item: 5dff772da3651922b360bf91 :: VOMZ Pilad 4x32 25.4mm riflescope :: -2
+[better-attachments@3.10.0] SILENCER item: 5e01ea19e9dc277128008c0b :: Rotor 43 7.62x54R sound suppressor :: -11
+[better-attachments@3.10.0] SILENCER item: 5e208b9842457a4a7a33d074 :: AK Hexagon DTKP MK.2 7.62x39 sound suppressor :: -10
+[better-attachments@3.10.0] STOCK item: 5e217ba4c1434648c13568cd :: AKM/AK-74 Hexagon "Kocherga" stock (Anodized Red) :: 16
+[better-attachments@3.10.0] STOCK item: 5e217ba4c1434648c13568cd :: AKM/AK-74 Hexagon "Kocherga" stock (Anodized Red) :: 16 :: -30
+[better-attachments@3.10.0] STOCK item: 5e848db4681bea2ada00daa9 :: KS-23 wooden stock :: 10
+[better-attachments@3.10.0] STOCK item: 5e848db4681bea2ada00daa9 :: KS-23 wooden stock :: 10 :: -30
+[better-attachments@3.10.0] STOCK item: 5e848dc4e4dbc5266a4ec63d :: KS-23M wire stock :: 15
+[better-attachments@3.10.0] STOCK item: 5e848dc4e4dbc5266a4ec63d :: KS-23M wire stock :: 15 :: -23
+[better-attachments@3.10.0] STOCK item: 5e87116b81c4ed43e83cefdd :: Mossberg 590A1 polymer stock :: 11
+[better-attachments@3.10.0] STOCK item: 5e87116b81c4ed43e83cefdd :: Mossberg 590A1 polymer stock :: 11 :: -29
+[better-attachments@3.10.0] STOCK item: 5ea03e9400685063ec28bfa4 :: PPSh-41 stock :: 32
+[better-attachments@3.10.0] STOCK item: 5ea03e9400685063ec28bfa4 :: PPSh-41 stock :: 32 :: -25
+[better-attachments@3.10.0] FLASH_HIDER item: 5ea172e498dacb342978818e :: AR-15 SureFire SF4P 5.56x45 flash hider :: 0
+[better-attachments@3.10.0] SILENCER item: 5ea17bbc09aa976f2e7a51cd :: SureFire SOCOM556-RC2 5.56x45 sound suppressor :: -8
+[better-attachments@3.10.0] STOCK item: 5eea217fc64c5d0dfc05712a :: Mossberg 590A1 Magpul SGA stock :: 14
+[better-attachments@3.10.0] STOCK item: 5eea217fc64c5d0dfc05712a :: Mossberg 590A1 Magpul SGA stock :: 14 :: -37
+[better-attachments@3.10.0] STOCK item: 5ef1b9f0c64c5d0dfc0571a1 :: Mossberg 590A1 Mesa Tactical LEO gen.1 stock adapter :: 14
+[better-attachments@3.10.0] STOCK item: 5ef1ba28c64c5d0dfc0571a5 :: Mesa Tactical Crosshair Hydraulic buffer tube :: -1
+[better-attachments@3.10.0] STOCK item: 5ef1ba28c64c5d0dfc0571a5 :: Mesa Tactical Crosshair Hydraulic buffer tube :: -1 :: -4
+[better-attachments@3.10.0] FLASH_HIDER item: 5ef61964ec7f42238c31e0c1 :: M1911 Anarchy Outdoors .45 ACP muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5f2aa4559b44de6b1b4e68d1 :: RFB 7.62x51 flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5f6339d53ada5942720e2dc3 :: Ferfrans CRD 5.56x45 Concussion Reduction Device :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5f633f68f5750b524b45f112 :: AKM thread type JMac Customs RRD-4C 7.62x39 muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 5f633f791b231926f2329f13 :: AK-74 thread type JMac Customs RRD-4C multi-caliber muzzle brake :: -1
+[better-attachments@3.10.0] STOCK item: 5f63405df5750b524b45f114 :: VPO-101 SVD-style walnut stock :: 25
+[better-attachments@3.10.0] STOCK item: 5f63405df5750b524b45f114 :: VPO-101 SVD-style walnut stock :: 25 :: -32
+[better-attachments@3.10.0] SILENCER item: 5f63407e1b231926f2329f15 :: VPO-101 Rotor 43 7.62x51 sound suppressor :: -14
+[better-attachments@3.10.0] FOREGRIP item: 5f6340d3ca442212f4047eb2 :: Tactical Dynamics Skeletonized Foregrip :: 10
+[better-attachments@3.10.0] FOREGRIP item: 5f6340d3ca442212f4047eb2 :: Tactical Dynamics Skeletonized Foregrip :: 10 :: -3
+[better-attachments@3.10.0] FLASH_HIDER item: 5f6372e2865db925d54f3869 :: AR-15 Ferfrans CQB 5.56x45 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5fb65424956329274326f316 :: KRISS Vector .45 ACP flash hider :: 0
+[better-attachments@3.10.0] STOCK item: 5fb6558ad6f0b2136f2d7eb7 :: KRISS Vector Gen.2 folding stock :: 11
+[better-attachments@3.10.0] STOCK item: 5fb6558ad6f0b2136f2d7eb7 :: KRISS Vector Gen.2 folding stock :: 11 :: -28
+[better-attachments@3.10.0] STOCK item: 5fb655a72b1b027b1f50bd06 :: KRISS Vector Pistol Sling adapter :: 6
+[better-attachments@3.10.0] STOCK item: 5fb655b748c711690e3a8d5a :: KRISS Vector non-folding stock adapter :: -1
+[better-attachments@3.10.0] IRON_SIGHT item: 5fb6564947ce63734e3fa1da :: KRISS Defiance low profile flip-up rear sight :: 5
+[better-attachments@3.10.0] IRON_SIGHT item: 5fb6567747ce63734e3fa1dc :: KRISS Defiance low profile flip-up front sight :: 5
+[better-attachments@3.10.0] STOCK item: 5fbbaa86f9986c4cff3fe5f6 :: AR-15 KRISS Defiance DS150 stock (Black) :: 13
+[better-attachments@3.10.0] STOCK item: 5fbbaa86f9986c4cff3fe5f6 :: AR-15 KRISS Defiance DS150 stock (Black) :: 13 :: -28
+[better-attachments@3.10.0] FLASH_HIDER item: 5fbbc3324e8a554c40648348 :: KRISS Vector 9x19 flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5fbcbcf593164a5b6278efb2 :: SIG Sauer 7.62x51 3-prong flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5fbcbd02900b1d5091531dd3 :: SIG Sauer Micro Brake 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 5fbcbd10ab884124df0cd563 :: SIG Sauer Two Port Brake 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] STOCK item: 5fbcc429900b1d5091531dd7 :: MPX/MCX Telescoping/Folding Stock :: 14
+[better-attachments@3.10.0] STOCK item: 5fbcc429900b1d5091531dd7 :: MPX/MCX Telescoping/Folding Stock :: 14 :: -25
+[better-attachments@3.10.0] STOCK item: 5fbcc437d724d907e2077d5c :: MPX/MCX Thin Side-Folding Stock :: 9
+[better-attachments@3.10.0] STOCK item: 5fbcc437d724d907e2077d5c :: MPX/MCX Thin Side-Folding Stock :: 9 :: -28
+[better-attachments@3.10.0] SILENCER item: 5fbe760793164a5b6278efc8 :: SIG Sauer SRD762-QD 7.62x51 sound suppressor :: -12
+[better-attachments@3.10.0] SILENCER item: 5fbe7618d6fa9c00c571bb6c :: SIG Sauer SRD762Ti 7.62x51 sound suppressor :: -11
+[better-attachments@3.10.0] FOREGRIP item: 5fc0f9b5d724d907e2077d82 :: A3 Tactical MVF001 KeyMod vertical foregrip (Black) :: 14
+[better-attachments@3.10.0] FOREGRIP item: 5fc0f9cbd6fa9c00c571bb90 :: SIG Sauer Vertical Foregrip KeyMod (Black) :: 9
+[better-attachments@3.10.0] FOREGRIP item: 5fc0f9cbd6fa9c00c571bb90 :: SIG Sauer Vertical Foregrip KeyMod (Black) :: 9 :: -3
+[better-attachments@3.10.0] IRON_SIGHT item: 5fc0fa362770a0045c59c677 :: MCX flip-up front sight :: 5
+[better-attachments@3.10.0] FLASH_HIDER item: 5fc23636016cce60e8341b05 :: SilencerCo AC-858 ASR .338 LM muzzle brake :: -1
+[better-attachments@3.10.0] STOCK item: 5fc2369685fd526b824a5713 :: AR-15 B5 Systems Precision stock :: 5
+[better-attachments@3.10.0] STOCK item: 5fc2369685fd526b824a5713 :: AR-15 B5 Systems Precision stock :: 5 :: -30
+[better-attachments@3.10.0] STOCK item: 5fc3e4ee7283c4046c5814af :: HK UMP polymer stock :: 6
+[better-attachments@3.10.0] STOCK item: 5fc3e4ee7283c4046c5814af :: HK UMP polymer stock :: 6 :: -30
+[better-attachments@3.10.0] SILENCER item: 5fc4b9b17283c4046c5814d7 :: SilencerCo Omega 45k .45 ACP sound suppressor :: -10
+[better-attachments@3.10.0] FOREGRIP item: 5fce0cf655375d18a253eff0 :: Magpul RVG foregrip (FDE) :: 11
+[better-attachments@3.10.0] FOREGRIP item: 5fce0cf655375d18a253eff0 :: Magpul RVG foregrip (FDE) :: 11 :: -3
+[better-attachments@3.10.0] STOCK item: 5fce16961f152d4312622bc9 :: AR-15 KRISS Defiance DS150 stock (FDE) :: 13
+[better-attachments@3.10.0] STOCK item: 5fce16961f152d4312622bc9 :: AR-15 KRISS Defiance DS150 stock (FDE) :: 13 :: -28
+[better-attachments@3.10.0] SILENCER item: 602a97060ddce744014caf6f :: PL-15 9x19 sound suppressor :: -8
+[better-attachments@3.10.0] STOCK item: 602e3f1254072b51b239f713 :: AR-15 Soyuz-TM buffer tube :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 602e620f9b513876d4338d9a :: AR-15 FAB Defense GL-CORE buttstock :: 19
+[better-attachments@3.10.0] STOCK item: 602e620f9b513876d4338d9a :: AR-15 FAB Defense GL-CORE buttstock :: 19 :: -24
+[better-attachments@3.10.0] FLASH_HIDER item: 60337f5dce399e10262255d1 :: STM-9 9x19 muzzle brake :: -1
+[better-attachments@3.10.0] STOCK item: 606587d11246154cad35d635 :: AR-15 CMMG RipStock buttstock :: 12
+[better-attachments@3.10.0] STOCK item: 606587d11246154cad35d635 :: AR-15 CMMG RipStock buttstock :: 12 :: -24
+[better-attachments@3.10.0] STOCK item: 606587e18900dc2d9a55b65f :: CMMG buffer tube :: 0 :: -2
+[better-attachments@3.10.0] FLASH_HIDER item: 6065c6e7132d4d12c81fd8e1 :: AR-10 CMMG SV Brake 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] STOCK item: 606eef756d0bd7580617baf8 :: MP-155 Ultima polymer stock :: 13
+[better-attachments@3.10.0] STOCK item: 606eef756d0bd7580617baf8 :: MP-155 Ultima polymer stock :: 13 :: -32
+[better-attachments@3.10.0] STOCK item: 606ef0812535c57a13424d20 :: MP-155 Ultima thin recoil pad :: 6
+[better-attachments@3.10.0] STOCK item: 606ef0812535c57a13424d20 :: MP-155 Ultima thin recoil pad :: 6 :: -3
+[better-attachments@3.10.0] STOCK item: 606f262c6d0bd7580617bafa :: MP-155 Ultima medium recoil pad :: 5
+[better-attachments@3.10.0] STOCK item: 606f262c6d0bd7580617bafa :: MP-155 Ultima medium recoil pad :: 5 :: -5
+[better-attachments@3.10.0] STOCK item: 606f263a8900dc2d9a55b68d :: MP-155 Ultima large recoil pad :: -1
+[better-attachments@3.10.0] STOCK item: 606f263a8900dc2d9a55b68d :: MP-155 Ultima large recoil pad :: -1 :: -7
+[better-attachments@3.10.0] SPECIAL_SCOPE item: 606f2696f2cb2e02a42aceb1 :: MP-155 Ultima thermal camera :: -1
+[better-attachments@3.10.0] STOCK item: 607d5a891246154cad35d6aa :: MP-155 walnut stock :: 10
+[better-attachments@3.10.0] STOCK item: 607d5a891246154cad35d6aa :: MP-155 walnut stock :: 10 :: -30
+[better-attachments@3.10.0] FLASH_HIDER item: 607ffb988900dc2d9a55b6e4 :: AR-10 SureFire ProComp 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] STOCK item: 6087e2a5232e5a31c233d552 :: AKM/AK-74 ProMag Archangel OPFOR AA47 buttstock :: 21
+[better-attachments@3.10.0] STOCK item: 6087e2a5232e5a31c233d552 :: AKM/AK-74 ProMag Archangel OPFOR AA47 buttstock :: 21 :: -34
+[better-attachments@3.10.0] FLASH_HIDER item: 609269c3b0e443224b421cc1 :: AR-15 SilencerCo ASR 5.56x45 flash hider :: -1
+[better-attachments@3.10.0] SILENCER item: 60926df0132d4d12c81fd9df :: SilencerCo Saker ASR 556 5.56x45 sound suppressor :: -11
+[better-attachments@3.10.0] COLLIMATOR item: 609a63b6e2ff132951242d09 :: Valday Krechet reflex sight :: -2
+[better-attachments@3.10.0] COLLIMATOR item: 609b9e31506cf869cf3eaf41 :: VOMZ Pilad TargetRing reflex sight :: -1
+[better-attachments@3.10.0] SPECIAL_SCOPE item: 609bab8b455afd752b2e6138 :: Torrey Pines Logic T12W 30Hz thermal reflex sight :: 0
+[better-attachments@3.10.0] COLLIMATOR item: 60a23797a37c940de7062d02 :: SIG Sauer ROMEO8T reflex sight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 6113d6c3290d254f5e6b27db :: BelOMO PK-AA dovetail reflex sight :: -2
+[better-attachments@3.10.0] STOCK item: 611a31ce5b7ffe001b4649d1 :: MP-43-1C buttpad :: 8
+[better-attachments@3.10.0] STOCK item: 611a31ce5b7ffe001b4649d1 :: MP-43-1C buttpad :: 8 :: -3
+[better-attachments@3.10.0] STOCK item: 612781056f3d944a17348d60 :: MTs-255-12 wooden stock :: 7
+[better-attachments@3.10.0] STOCK item: 612781056f3d944a17348d60 :: MTs-255-12 wooden stock :: 7 :: -29
+[better-attachments@3.10.0] FLASH_HIDER item: 612e0cfc8004cc50514c2d9e :: AR-15 AWC PSR 5.56x45 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 612e0d3767085e45ef14057f :: AWC PSR 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 612e0d81290d254f5e6b291a :: AWC PSR .338 LM muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 6130c43c67085e45ef1405a1 :: AR-10 KAC QDC 7.62x51 Muzzle Brake Kit :: 0
+[better-attachments@3.10.0] SILENCER item: 6130c4d51cb55961fa0fd49f :: HK UMP B&T OEM .45 ACP sound suppressor :: -8
+[better-attachments@3.10.0] FLASH_HIDER item: 615d8df08004cc50514c3236 :: HK MP5 B&T QD 9x19 muzzle brake :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 615d8e2f1cb55961fa0fd9a4 :: AR-15 HK BLITZ 5.56x45 flash hider :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 615d8eb350224f204c1da1cf :: AR-10 SureFire Warden 7.62x51 blast regulator :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 615d8f5dd92c473c770212ef :: AK Hexagon Reactor 5.45x39 muzzle brake :: 0
+[better-attachments@3.10.0] SILENCER item: 615d8f8567085e45ef1409ca :: AK-74 Hexagon Wafflemaker 5.45x39 sound suppressor :: -9
+[better-attachments@3.10.0] FOREGRIP item: 615d8fd3290d254f5e6b2edc :: Monstrum Tactical Vertical Fore Grip KeyMod :: 12
+[better-attachments@3.10.0] FOREGRIP item: 615d8fd3290d254f5e6b2edc :: Monstrum Tactical Vertical Fore Grip KeyMod :: 12 :: -2
+[better-attachments@3.10.0] TACTICAL_COMBO item: 61605d88ffa6e502ac5e7eeb :: Wilcox RAPTAR ES Tactical Rangefinder :: 0
+[better-attachments@3.10.0] COLLIMATOR item: 61659f79d92c473c770213ee :: Aimpoint PRO reflex sight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 6165ac8c290d254f5e6b2f6c :: Leapers UTG reflex sight :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 61713308d92c473c770214a0 :: HK Prolonged 7.62x51 flash hider :: 0
+[better-attachments@3.10.0] SILENCER item: 6171367e1cb55961fa0fdb36 :: HK G28 B&T QD 7.62x51 sound suppressor :: -9
+[better-attachments@3.10.0] OPTIC_SCOPE item: 61714eec290d254f5e6b2ffc :: Schmidt & Bender PM II 3-20x50 34mm riflescope :: -3
+[better-attachments@3.10.0] OPTIC_SCOPE item: 617151c1d92c473c770214ab :: Schmidt & Bender PM II 1-8x24 30mm riflescope :: -1
+[better-attachments@3.10.0] STOCK item: 617153016c780c1e710c9a2f :: HK G28 buffer tube :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 617154aa1cb55961fa0fdb3b :: HK417 E2 buttstock :: 8
+[better-attachments@3.10.0] STOCK item: 617154aa1cb55961fa0fdb3b :: HK417 E2 buttstock :: 8 :: -29
+[better-attachments@3.10.0] STOCK item: 617155ee50224f204c1da3cd :: HK417 Adjustable Buttstock :: 10
+[better-attachments@3.10.0] STOCK item: 617155ee50224f204c1da3cd :: HK417 Adjustable Buttstock :: 10 :: -29
+[better-attachments@3.10.0] STOCK item: 61715e7e67085e45ef140b33 :: HK Adjustable Buttstock cheek rest :: 9
+[better-attachments@3.10.0] STOCK item: 61816734d8e3106d9806c1f3 :: FN SCAR folding polymer stock :: 0 :: -5
+[better-attachments@3.10.0] STOCK item: 618167441cb55961fa0fdc71 :: FN SCAR cheek rest :: 9
+[better-attachments@3.10.0] STOCK item: 618167528004cc50514c34f9 :: FN SCAR retractable polymer stock :: 7
+[better-attachments@3.10.0] STOCK item: 618167528004cc50514c34f9 :: FN SCAR retractable polymer stock :: 7 :: -22
+[better-attachments@3.10.0] STOCK item: 618167616ef05c2ce828f1a8 :: FN SCAR rubber buttpad :: 7
+[better-attachments@3.10.0] STOCK item: 618167616ef05c2ce828f1a8 :: FN SCAR rubber buttpad :: 7 :: -3
+[better-attachments@3.10.0] FLASH_HIDER item: 618178aa1cb55961fa0fdc80 :: AAC SCAR-SD 51T 7.62x51 flash hider :: -1
+[better-attachments@3.10.0] STOCK item: 61825d06d92c473c770215de :: FN SCAR folding polymer stock (FDE) :: 0 :: -5
+[better-attachments@3.10.0] STOCK item: 61825d136ef05c2ce828f1cc :: FN SCAR retractable polymer stock (FDE) :: 7
+[better-attachments@3.10.0] STOCK item: 61825d136ef05c2ce828f1cc :: FN SCAR retractable polymer stock (FDE) :: 7 :: -22
+[better-attachments@3.10.0] STOCK item: 61825d24d3a39d50044c13af :: FN SCAR cheek rest (FDE) :: 9
+[better-attachments@3.10.0] FLASH_HIDER item: 618407a850224f204c1da549 :: FN SCAR-L 5.56x45 flash hider :: 0
+[better-attachments@3.10.0] COLLIMATOR item: 618a5d5852ecee1505530b2a :: NPZ PK1 Obzor dovetail reflex sight :: -1
+[better-attachments@3.10.0] OPTIC_SCOPE item: 618a75f0bd321d49084cd399 :: NPZ 1P78-1 2.8x scope :: -3
+[better-attachments@3.10.0] OPTIC_SCOPE item: 618ba27d9008e4636a67f61d :: Vortex Razor HD Gen.2 1-6x24 30mm riflescope :: -2
+[better-attachments@3.10.0] FOREGRIP item: 619386379fb0c665d5490dbe :: HK Sturmgriff foregrip :: 11
+[better-attachments@3.10.0] IRON_SIGHT item: 61963a852d2c397d660036ad :: HK USP Red Dot sight mount :: -1
+[better-attachments@3.10.0] STOCK item: 6197b229af1f5202c57a9bea :: SVDS Lynx Arms Hinge buffer tube adapter :: 0
+[better-attachments@3.10.0] STOCK item: 619b69037b9de8162902673e :: AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock :: 20
+[better-attachments@3.10.0] STOCK item: 619b69037b9de8162902673e :: AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock :: 20 :: -32
+[better-attachments@3.10.0] STOCK item: 61f7b234ea4ab34f2f59c3ec :: MP-18 wooden stock :: 10
+[better-attachments@3.10.0] STOCK item: 61f7b234ea4ab34f2f59c3ec :: MP-18 wooden stock :: 10 :: -28
+[better-attachments@3.10.0] STOCK item: 61f803b8ced75b2e852e35f8 :: MP-18 polymer stock :: 11
+[better-attachments@3.10.0] STOCK item: 61f803b8ced75b2e852e35f8 :: MP-18 polymer stock :: 11 :: -28
+[better-attachments@3.10.0] STOCK item: 61faa91878830f069b6b7967 :: SV-98 wooden stock :: 10
+[better-attachments@3.10.0] STOCK item: 61faa91878830f069b6b7967 :: SV-98 wooden stock :: 10 :: -25
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 622b4d7df9cfc87d675d2ded :: HK G36 Hensoldt HKV 3x carry handle :: -1
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 622b4f54dc8dcc0ba8742f85 :: HK G36 Hensoldt HKV ZF 1.5x carry handle :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 622efbcb99f4ea1a4d6c9a15 :: Hensoldt RV red dot sight :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 622f07cfae33bc505b2c4dd5 :: HK G36 5.56x45 flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 622f128cec80d870d349b4e8 :: HK G36 5.56x45 4-prong flash hider :: 0
+[better-attachments@3.10.0] STOCK item: 622f140da5958f63c67f1735 :: HK G36 polymer stock :: 11
+[better-attachments@3.10.0] STOCK item: 622f140da5958f63c67f1735 :: HK G36 polymer stock :: 11 :: -24
+[better-attachments@3.10.0] STOCK item: 622f14e899892a7f9e08f6c5 :: HK G36 KV adjustable stock :: 5
+[better-attachments@3.10.0] STOCK item: 622f14e899892a7f9e08f6c5 :: HK G36 KV adjustable stock :: 5 :: -28
+[better-attachments@3.10.0] STOCK item: 623b2e9d11c3296b440d1638 :: SV-98 CNC Guns OV-SV98 chassis :: 14
+[better-attachments@3.10.0] STOCK item: 623b2e9d11c3296b440d1638 :: SV-98 CNC Guns OV-SV98 chassis :: 14 :: -5
+[better-attachments@3.10.0] STOCK item: 624c29ce09cd027dff2f8cd7 :: CNC Guns OV-SV98 M12B stock :: 16
+[better-attachments@3.10.0] STOCK item: 624c29ce09cd027dff2f8cd7 :: CNC Guns OV-SV98 M12B stock :: 16 :: -25
+[better-attachments@3.10.0] STOCK item: 6259c3387d6aab70bc23a18d :: Benelli M3 telescopic stock :: 14
+[better-attachments@3.10.0] STOCK item: 6259c3387d6aab70bc23a18d :: Benelli M3 telescopic stock :: 14 :: -27
+[better-attachments@3.10.0] STOCK item: 625eb0faa6e3a82193267ad9 :: Benelli M3 Mesa Tactical Urbino stock :: 10
+[better-attachments@3.10.0] STOCK item: 625eb0faa6e3a82193267ad9 :: Benelli M3 Mesa Tactical Urbino stock :: 10 :: -32
+[better-attachments@3.10.0] FLASH_HIDER item: 626667e87379c44d557b7550 :: KAC QDC 5.56x45 3-Prong Flash Eliminator :: -1
+[better-attachments@3.10.0] SILENCER item: 626673016f1edc06f30cf6d5 :: KAC QDC 5.56x45 sound suppressor :: -10
+[better-attachments@3.10.0] FLASH_HIDER item: 62669bccdb9ebb4daa44cd14 :: AR-15 SureFire Warden 5.56x45 blast regulator :: -1
+[better-attachments@3.10.0] STOCK item: 626a8ae89e664a2e2a75f409 :: TOZ-106 FAB Defense GPCP cheek rest :: 9
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 626bb8532c923541184624b4 :: SwampFox Trihawk Prism Scope 3x30 :: -1
+[better-attachments@3.10.0] TACTICAL_COMBO item: 626becf9582c3e319310b837 :: Insight WMX200 tactical flashlight :: -1
+[better-attachments@3.10.0] TACTICAL_COMBO item: 6272370ee4013c5d7e31f418 :: Olight Baldr Pro tactical flashlight with laser :: 0
+[better-attachments@3.10.0] TACTICAL_COMBO item: 6272379924e29f06af4d5ecb :: Olight Baldr Pro tactical flashlight with laser (Tan) :: 0
+[better-attachments@3.10.0] STOCK item: 627254cc9c563e6e442c398f :: AR-15 Strike Industries Viper PDW stock :: 25
+[better-attachments@3.10.0] STOCK item: 627254cc9c563e6e442c398f :: AR-15 Strike Industries Viper PDW stock :: 25 :: -23
+[better-attachments@3.10.0] STOCK item: 62811e2510e26c1f344e6554 :: AI AXMC pistol grip :: 9
+[better-attachments@3.10.0] STOCK item: 62811e335631d45211793c95 :: AI AXMC GTAC AR-type pistol grip adapter :: 0
+[better-attachments@3.10.0] STOCK item: 62811f828193841aca4a45c3 :: AI AXMC AX buttstock :: 8
+[better-attachments@3.10.0] STOCK item: 62811f828193841aca4a45c3 :: AI AXMC AX buttstock :: 8 :: -24
+[better-attachments@3.10.0] SILENCER item: 62811fa609427b40ab14e765 :: AI .338 LM Tactical Sound Moderator :: -15
+[better-attachments@3.10.0] FLASH_HIDER item: 62812081d23f207deb0ab216 :: AI .338 LM Tactical Muzzle Brake  :: -1
+[better-attachments@3.10.0] FOREGRIP item: 6281212a09427b40ab14e770 :: AI AXMC padded handguard grip :: 9
+[better-attachments@3.10.0] FOREGRIP item: 6281212a09427b40ab14e770 :: AI AXMC padded handguard grip :: 9 :: -2
+[better-attachments@3.10.0] COLLIMATOR item: 6284bd5f95250a29bc628a30 :: Milkor M2A1 grenade launcher reflex sight :: -3
+[better-attachments@3.10.0] OPTIC_SCOPE item: 62850c28da09541f43158cca :: Schmidt & Bender PM II 5-25x56 34mm riflescope :: -4
+[better-attachments@3.10.0] STOCK item: 628a6678ccaab13006640e49 :: AKM/AK-74 RD AK to M4 buffer tube adapter :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 628a66b41d5e41750e314f34 :: AR-10 Dead Air Keymount 7.62x51 muzzle brake :: 0
+[better-attachments@3.10.0] IRON_SIGHT item: 628a7b23b0f75035732dd565 :: AK RD Enhanced V2 Rear Sight :: 5
+[better-attachments@3.10.0] STOCK item: 628a85ee6b1d481ff772e9d5 :: AR-15 SB Tactical SBA3 brace :: 8
+[better-attachments@3.10.0] STOCK item: 628a85ee6b1d481ff772e9d5 :: AR-15 SB Tactical SBA3 brace :: 8 :: -19
+[better-attachments@3.10.0] STOCK item: 628b9a40717774443b15e9f2 :: AK-545 buffer tube :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 62e292e7b6c0ee2f230cee00 :: SR-2M top-folding stock :: 11
+[better-attachments@3.10.0] STOCK item: 62e292e7b6c0ee2f230cee00 :: SR-2M top-folding stock :: 11 :: -24
+[better-attachments@3.10.0] STOCK item: 62e2969582ebf260c20539c2 :: SR-2MP top-folding stock :: 12
+[better-attachments@3.10.0] STOCK item: 62e2969582ebf260c20539c2 :: SR-2MP top-folding stock :: 12 :: -24
+[better-attachments@3.10.0] SILENCER item: 62e2a7138e1ac9380579c122 :: SR-2M 9x21 SV-1381 sound suppressor :: -7
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 62ea7c793043d74a0306e19f :: Steyr AUG A1 STG77 1.5x optic sight :: -1
+[better-attachments@3.10.0] ASSAULT_SCOPE item: 62ebd290c427473eff0baafb :: Steyr AUG A3 M1 1.5x optic sight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 62ff9920fe938a24c90c10d2 :: SR-2M KP-SR2 reflex sight :: -1
+[better-attachments@3.10.0] SILENCER item: 630f2982cdb9e392db0cbcc7 :: Steyr AUG Relfex T4AUG Ranger 5.56x45 sound suppressor :: -11
+[better-attachments@3.10.0] FOREGRIP item: 634e61b0767cb15c4601a877 :: Steyr AUG vertical foregrip :: 9
+[better-attachments@3.10.0] SILENCER item: 634eba08f69c710e0108d386 :: Steyr AUG Ase Utra S Series SL7i 5.56x45 sound suppressor :: -12
+[better-attachments@3.10.0] FLASH_HIDER item: 6386120cd6baa055ad1e201c :: AR-15 Griffin Armament Gate-LOK Hammer 5.56x45 flash hider :: 0
+[better-attachments@3.10.0] SILENCER item: 638612b607dfed1ccb7206ba :: AR-15 Griffin Armament M4SD-K 5.56x45 sound suppressor :: -9
+[better-attachments@3.10.0] STOCK item: 6386300124a1dc425c00577a :: AK 100-series metal skeletonized stock :: 14
+[better-attachments@3.10.0] STOCK item: 6386300124a1dc425c00577a :: AK 100-series metal skeletonized stock :: 14 :: -27
+[better-attachments@3.10.0] SILENCER item: 63877c99e785640d436458ea :: AWC Thor PSR XL multi-caliber sound suppressor :: -14
+[better-attachments@3.10.0] STOCK item: 638de3603a1a4031d8260b8c :: AR-15 RTM ATP buffer tube :: 0 :: -2
+[better-attachments@3.10.0] FLASH_HIDER item: 63ac5c9658d0485fc039f0b8 :: AR-15 AlienTech 5.56x45 muzzle brake :: -1
+[better-attachments@3.10.0] SPECIAL_SCOPE item: 63fc44e2429a8a166c7f61e6 :: Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope :: -9
+[better-attachments@3.10.0] FLASH_HIDER item: 6405ff6bd4578826ec3e377a :: AR-15 Aeroknox Butterfly 5.56x45 muzzle brake :: 0
+[better-attachments@3.10.0] STOCK item: 6410745d5dd49d77bd078485 :: AVT-40 wooden stock  :: 10
+[better-attachments@3.10.0] STOCK item: 6410745d5dd49d77bd078485 :: AVT-40 wooden stock  :: 10 :: -23
+[better-attachments@3.10.0] FLASH_HIDER item: 64119d1f2c6d6f921a0929f8 :: SVT-40 7.62x54R muzzle brake :: 0
+[better-attachments@3.10.0] TACTICAL_COMBO item: 644a3df63b0b6f03e101e065 :: B.E. Meyers MAWL-C1+ tactical device :: 0
+[better-attachments@3.10.0] STOCK item: 6451167ad4928d46d30be3fd :: 9A-91 top-folding stock :: 20
+[better-attachments@3.10.0] STOCK item: 6451167ad4928d46d30be3fd :: 9A-91 top-folding stock :: 20 :: -25
+[better-attachments@3.10.0] STOCK item: 6452519e3d52156624001fd5 :: VSK-94 stock :: 9
+[better-attachments@3.10.0] STOCK item: 6452519e3d52156624001fd5 :: VSK-94 stock :: 9 :: -35
+[better-attachments@3.10.0] SILENCER item: 64527a3a7da7133e5a09ca99 :: 9A-91 9x39 sound suppressor :: -2
+[better-attachments@3.10.0] STOCK item: 646371a9f2404ab67905c8e6 :: PKM wooden stock :: 7
+[better-attachments@3.10.0] STOCK item: 646371a9f2404ab67905c8e6 :: PKM wooden stock :: 7 :: -25
+[better-attachments@3.10.0] FLASHLIGHT item: 646f62fee779812413011ab7 :: Zenit 2D flashlight :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 6477772ea8a38bb2050ed4db :: SIG Sauer ROMEO7 1x30 reflex sight (Prototype) :: -1
+[better-attachments@3.10.0] COLLIMATOR item: 64785e7c19d732620e045e15 :: ELCAN Specter HCO holographic sight :: -1
+[better-attachments@3.10.0] SPECIAL_SCOPE item: 6478641c19d732620e045e17 :: SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope :: -5
+[better-attachments@3.10.0] FOREGRIP item: 648067db042be0705c0b3009 :: RTM Pillau tactical foregrip (Sand) :: 8
+[better-attachments@3.10.0] FOREGRIP item: 648067db042be0705c0b3009 :: RTM Pillau tactical foregrip (Sand) :: 8 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 64806bdd26c80811d408d37a :: RTM Osovets P-2 tactical foregrip :: 5
+[better-attachments@3.10.0] FOREGRIP item: 64806bdd26c80811d408d37a :: RTM Osovets P-2 tactical foregrip :: 5 :: -4
+[better-attachments@3.10.0] FOREGRIP item: 64807a29e5ffe165600abc97 :: RTM Osovets P-2 tactical foregrip (Khaki) :: 5
+[better-attachments@3.10.0] FOREGRIP item: 64807a29e5ffe165600abc97 :: RTM Osovets P-2 tactical foregrip (Khaki) :: 5 :: -4
+[better-attachments@3.10.0] STOCK item: 6492d7847363b8a52206bc52 :: PK Zenit PT-2 "Klassika" stock :: -1
+[better-attachments@3.10.0] STOCK item: 6492d7847363b8a52206bc52 :: PK Zenit PT-2 "Klassika" stock :: -1 :: -27
+[better-attachments@3.10.0] STOCK item: 6492e3a97df7d749100e29ee :: PKP polymer stock :: 9
+[better-attachments@3.10.0] STOCK item: 6492e3a97df7d749100e29ee :: PKP polymer stock :: 9 :: -25
+[better-attachments@3.10.0] FLASH_HIDER item: 6492ef63cfcf7c89e701abf1 :: PK Zenit DTK-1P 7.62x54R muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 6492efb8cfcf7c89e701abf3 :: PKM 7.62x54R slotted flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 6492efe46cc7e29a6f03b2a0 :: PKM 7.62x54R muzzle brake :: 0
+[better-attachments@3.10.0] STOCK item: 6494094948796d891603e59f :: AK Custom Arms ST-EF 74 skeleton stock extension :: 5
+[better-attachments@3.10.0] STOCK item: 6494094948796d891603e59f :: AK Custom Arms ST-EF 74 skeleton stock extension :: 5 :: -3
+[better-attachments@3.10.0] FLASH_HIDER item: 64942bfc6ee699f6890dff95 :: AK Vector VR-05T 7.62x39 muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 64943b74e9998d641b0412ed :: AR-15 WDR NERO 556 5.56x45 muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 649ec2af961514b22506b10f :: AK-12 5.45x39 muzzle brake :: -1
+[better-attachments@3.10.0] STOCK item: 649ec87d8007560a9001ab36 :: AK-12 buffer tube :: 0 :: -4
+[better-attachments@3.10.0] SILENCER item: 64c196ad26a15b84aa07132f :: AK-12 5.45x39 sound suppressor :: -12
+[better-attachments@3.10.0] STOCK item: 6513f1798cb24472490ee331 :: RPD wooden stock :: 20
+[better-attachments@3.10.0] STOCK item: 6513f1798cb24472490ee331 :: RPD wooden stock :: 20 :: -28
+[better-attachments@3.10.0] SILENCER item: 65144ff50e00edc79406836f :: SR-3M 9x39 sound suppressor :: -2
+[better-attachments@3.10.0] FOREGRIP item: 65169d5b30425317755f8e25 :: RTM Pillau P-2 tactical foregrip (Red) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 65169d5b30425317755f8e25 :: RTM Pillau P-2 tactical foregrip (Red) :: 10 :: -3
+[better-attachments@3.10.0] STOCK item: 6516e91f609aaf354b34b3e2 :: AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black) :: 18
+[better-attachments@3.10.0] STOCK item: 6516e91f609aaf354b34b3e2 :: AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black) :: 18 :: -25
+[better-attachments@3.10.0] STOCK item: 6516e971a3d4c6497930b450 :: AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE) :: 18
+[better-attachments@3.10.0] STOCK item: 6516e971a3d4c6497930b450 :: AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE) :: 18 :: -25
+[better-attachments@3.10.0] STOCK item: 6516e9bc5901745209404287 :: Daniel Defense TCS 12mm Buttpad  :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 6516e9d7e239bd0c487e3766 :: Daniel Defense TCS 20mm Buttpad  :: -1
+[better-attachments@3.10.0] STOCK item: 6516e9d7e239bd0c487e3766 :: Daniel Defense TCS 20mm Buttpad  :: -1 :: -3
+[better-attachments@3.10.0] FOREGRIP item: 651a8bf3a8520e48047bf708 :: Daniel Defense Enhanced M-LOK Vertical Foregrip (Black) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 651a8bf3a8520e48047bf708 :: Daniel Defense Enhanced M-LOK Vertical Foregrip (Black) :: 10 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 651a8e529829226ceb67c319 :: Daniel Defense Enhanced M-LOK Vertical Foregrip (Coyote Brown) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 651a8e529829226ceb67c319 :: Daniel Defense Enhanced M-LOK Vertical Foregrip (Coyote Brown) :: 10 :: -2
+[better-attachments@3.10.0] FLASH_HIDER item: 6529113b5ae2ae97b80fdf39 :: MCX-SPEAR Clutch-Lok QD 6.8x51 Shouldered Flash Hider :: 0
+[better-attachments@3.10.0] SILENCER item: 652911e650dc782999054b9d :: MCX-SPEAR SLX68-MG-QD 6.8x51 sound suppressor :: -11
+[better-attachments@3.10.0] STOCK item: 6529348224cbe3c74a05e5c4 :: MPX/MCX Stock Locking Hinge Assembly :: -1
+[better-attachments@3.10.0] STOCK item: 6529366450dc782999054ba0 :: MPX/MCX Stock Adapter Low Profile Tube (Coyote Tan) :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 6529370c405a5f51dd023db8 :: AR-15 Magpul MOE SL-K buttstock (Coyote Tan) :: 14
+[better-attachments@3.10.0] STOCK item: 6529370c405a5f51dd023db8 :: AR-15 Magpul MOE SL-K buttstock (Coyote Tan) :: 14 :: -28
+[better-attachments@3.10.0] FOREGRIP item: 65329ebcc0d50d0c9204ace1 :: SR-3M polymer foregrip (Black) :: 9
+[better-attachments@3.10.0] FOREGRIP item: 65329ebcc0d50d0c9204ace1 :: SR-3M polymer foregrip (Black) :: 9 :: -2
+[better-attachments@3.10.0] STOCK item: 653ecef836fae5a82f02b869 :: SKS ATI Monte Carlo stock :: 22
+[better-attachments@3.10.0] STOCK item: 653ecef836fae5a82f02b869 :: SKS ATI Monte Carlo stock :: 22 :: -25
+[better-attachments@3.10.0] STOCK item: 653ed132896b99b40a0292e6 :: SKS FAB Defense UAS buttstock :: 19
+[better-attachments@3.10.0] STOCK item: 653ed132896b99b40a0292e6 :: SKS FAB Defense UAS buttstock :: 19 :: -25
+[better-attachments@3.10.0] COLLIMATOR item: 6544d4187c5457729210d277 :: Axion Kobra EKP-1S-03 reflex sight (Dovetail) :: -1
+[better-attachments@3.10.0] FOREGRIP item: 655dccfdbdcc6b5df71382b6 :: Strike Industries Cobra Tactical foregrip (FDE) :: 13
+[better-attachments@3.10.0] FOREGRIP item: 655dccfdbdcc6b5df71382b6 :: Strike Industries Cobra Tactical foregrip (FDE) :: 13 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 655df24fdf80b12750626d0a :: Stark SE-5 Express Forward foregrip (FDE) :: 12
+[better-attachments@3.10.0] FOREGRIP item: 655df24fdf80b12750626d0a :: Stark SE-5 Express Forward foregrip (FDE) :: 12 :: -3
+[better-attachments@3.10.0] COLLIMATOR item: 655f13e0a246670fb0373245 :: Wilcox BOSS Xe reflex sight :: -1
+[better-attachments@3.10.0] FOREGRIP item: 6565c0c2ff7eb7070409084c :: SR-3M polymer foregrip (Plum) :: 9
+[better-attachments@3.10.0] FOREGRIP item: 6565c0c2ff7eb7070409084c :: SR-3M polymer foregrip (Plum) :: 9 :: -2
+[better-attachments@3.10.0] OPTIC_SCOPE item: 6567e7681265c8a131069b0f :: SIG TANGO6T 1-6x24 30mm riflescope :: -2
+[better-attachments@3.10.0] COLLIMATOR item: 65f05b9d39dab9e9ec049cfd :: KOMZ Rusak reflex sight :: -1
+[better-attachments@3.10.0] STOCK item: 660126161347bc1a5f0f4dba :: M60E4 buttstock :: 9
+[better-attachments@3.10.0] IRON_SIGHT item: 660126a98f2b23af220b27e7 :: M60E6 front sight rail :: 6
+[better-attachments@3.10.0] FLASH_HIDER item: 6601281fc752a02bbe05e696 :: M60E3 7.62x51 flash hider :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 66012a1d3dff5074ed002e2a :: M60E6 7.62x51 flash hider :: -1
+[better-attachments@3.10.0] STOCK item: 6615202b96461aa8360271eb :: M60E6 buttstock :: 10
+[better-attachments@3.10.0] STOCK item: 661520fb6f8e1a96340afaa6 :: M60E6 buttstock (FDE) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 661e52415be02310ed07a07a :: TangoDown Stubby BGV-QDK foregrip (Black) :: 9
+[better-attachments@3.10.0] FOREGRIP item: 661e52415be02310ed07a07a :: TangoDown Stubby BGV-QDK foregrip (Black) :: 9 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 661e52b5b099f32c28003586 :: TangoDown Stubby BGV-QDK foregrip (FDE) :: 9
+[better-attachments@3.10.0] FOREGRIP item: 661e52b5b099f32c28003586 :: TangoDown Stubby BGV-QDK foregrip (FDE) :: 9 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 661e52e29c8b4dadef008577 :: TangoDown BGV-QDITI foregrip (Black) :: 8
+[better-attachments@3.10.0] FOREGRIP item: 661e52e29c8b4dadef008577 :: TangoDown BGV-QDITI foregrip (Black) :: 8 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 661e53149c8b4dadef008579 :: TangoDown BGV-QDITI foregrip (FDE) :: 8
+[better-attachments@3.10.0] FOREGRIP item: 661e53149c8b4dadef008579 :: TangoDown BGV-QDITI foregrip (FDE) :: 8 :: -2
+[better-attachments@3.10.0] FLASH_HIDER item: 6621455e3aceea9e2b0b01e7 :: AR-15 DoubleStar Carlson Tac Comp 5.56x45 compensator :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 6642f63667f5cb56a00662eb :: AR-10 Delta-Tek DTK-AR10 7.62x51 muzzle brake :: -1
+[better-attachments@3.10.0] FLASH_HIDER item: 664301213dd83ddae20dda18 :: AR-15 Delta-Tek DTK-M16 5.56x45 muzzle brake :: -1
+[better-attachments@3.10.0] FOREGRIP item: 665d5d9e338229cfd6078da1 :: BCM GUNFIGHTER MOD 3 M-LOK foregrip (Black) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 665d5d9e338229cfd6078da1 :: BCM GUNFIGHTER MOD 3 M-LOK foregrip (Black) :: 10 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 665edce564fb556f940ab32a :: BCM GUNFIGHTER MOD 3 M-LOK foregrip (FDE) :: 10
+[better-attachments@3.10.0] FOREGRIP item: 665edce564fb556f940ab32a :: BCM GUNFIGHTER MOD 3 M-LOK foregrip (FDE) :: 10 :: -2
+[better-attachments@3.10.0] STOCK item: 668032ba74b8f2050c0b917d :: UZI PRO Stabilizing Brace :: 10
+[better-attachments@3.10.0] STOCK item: 668032ba74b8f2050c0b917d :: UZI PRO Stabilizing Brace :: 10 :: -17
+[better-attachments@3.10.0] STOCK item: 6686717ffb75ee4a5e02eb19 :: UZI PRO A3 Tactical Modular Folding Brace :: 18
+[better-attachments@3.10.0] STOCK item: 6686717ffb75ee4a5e02eb19 :: UZI PRO A3 Tactical Modular Folding Brace :: 18 :: -15
+[better-attachments@3.10.0] STOCK item: 66867310f3734a938b077f79 :: UZI PRO SBR buttstock :: 12
+[better-attachments@3.10.0] STOCK item: 66867310f3734a938b077f79 :: UZI PRO SBR buttstock :: 12 :: -19
+[better-attachments@3.10.0] STOCK item: 66881008f23233ee9a0742e7 :: UZI PRO backplate :: 5
+[better-attachments@3.10.0] STOCK item: 6698c9e07356874dfe0a0b88 :: UZI Type 7 buttstock :: 7
+[better-attachments@3.10.0] STOCK item: 6698c9e07356874dfe0a0b88 :: UZI Type 7 buttstock :: 7 :: -29
+[better-attachments@3.10.0] STOCK item: 6698c9ed36ba38d291017713 :: UZI Type 3 buttstock :: 5
+[better-attachments@3.10.0] STOCK item: 6698c9ed36ba38d291017713 :: UZI Type 3 buttstock :: 5 :: -29
+[better-attachments@3.10.0] STOCK item: 6699249f3c4fda6471005cba :: UZI Type 5 buttstock :: 9
+[better-attachments@3.10.0] STOCK item: 6699249f3c4fda6471005cba :: UZI Type 5 buttstock :: 9 :: -27
+[better-attachments@3.10.0] STOCK item: 669924a69950f5f4cd060295 :: UZI Type 6 buttstock :: 11
+[better-attachments@3.10.0] STOCK item: 669924a69950f5f4cd060295 :: UZI Type 6 buttstock :: 11 :: -25
+[better-attachments@3.10.0] STOCK item: 66992f4db9f31ddda10dd1c8 :: UZI StormWerkz stock adapter :: 0
+[better-attachments@3.10.0] FLASH_HIDER item: 6699370c57df3e2b4e0a0dab :: UZI vented barrel shroud :: -1
+[better-attachments@3.10.0] SILENCER item: 66993733f74fef4dfd0b04ff :: UZI 9x19 sound suppressor :: -8
+[better-attachments@3.10.0] STOCK item: 669cf78806768ff39504fc1c :: UZI PRO CSM stock adapter :: 0
+[better-attachments@3.10.0] STOCK item: 66ac9d9740e27931602042d4 :: AK skeletonized stock (Customized) :: 16
+[better-attachments@3.10.0] STOCK item: 66ac9d9740e27931602042d4 :: AK skeletonized stock (Customized) :: 16 :: -27
+[better-attachments@3.10.0] STOCK item: 66ffbfb1a73a7bce3d0b45a8 :: FN SCAR Vltor RE-SCAR Stock Adapter :: 0
+[better-attachments@3.10.0] STOCK item: 66ffbfb1a73a7bce3d0b45a8 :: FN SCAR Vltor RE-SCAR Stock Adapter :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 66ffc20ba73a7bce3d0b45ab :: FN SCAR Vltor RE-SCAR Stock Adapter (Patriot Brown) :: 0
+[better-attachments@3.10.0] STOCK item: 66ffc20ba73a7bce3d0b45ab :: FN SCAR Vltor RE-SCAR Stock Adapter (Patriot Brown) :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 66ffc2bd132225f0fe0611d8 :: FN SCAR Vltor VSS-11 polymer stock :: 14
+[better-attachments@3.10.0] STOCK item: 66ffc2bd132225f0fe0611d8 :: FN SCAR Vltor VSS-11 polymer stock :: 14 :: -29
+[better-attachments@3.10.0] STOCK item: 66ffc2ecfe9b3825960652f7 :: FN SCAR Vltor VSS-11 polymer stock (Patriot Brown) :: 14
+[better-attachments@3.10.0] STOCK item: 66ffc2ecfe9b3825960652f7 :: FN SCAR Vltor VSS-11 polymer stock (Patriot Brown) :: 14 :: -29
+[better-attachments@3.10.0] STOCK item: 6706a159c67236b2f703bb95 :: HK G36 Tommy Built AR Stock Adapter :: 0
+[better-attachments@3.10.0] STOCK item: 6706a159c67236b2f703bb95 :: HK G36 Tommy Built AR Stock Adapter :: 0 :: -2
+[better-attachments@3.10.0] STOCK item: 67110d06723c2733410161e8 :: HK G36 IDZ adjustable stock :: 12
+[better-attachments@3.10.0] STOCK item: 67110d06723c2733410161e8 :: HK G36 IDZ adjustable stock :: 12 :: -28
+[better-attachments@3.10.0] STOCK item: 67110d5ed1758189fc0bd221 :: HK G36 IDZ Convex Buttpad :: 5
+[better-attachments@3.10.0] STOCK item: 67110d5ed1758189fc0bd221 :: HK G36 IDZ Convex Buttpad :: 5 :: -4
+[better-attachments@3.10.0] STOCK item: 67110d6fa71d1f123d021cd3 :: HK G36 IDZ Concave Buttpad :: 7
+[better-attachments@3.10.0] STOCK item: 67110d6fa71d1f123d021cd3 :: HK G36 IDZ Concave Buttpad :: 7 :: -2
+[better-attachments@3.10.0] FOREGRIP item: 671883292e2eeb98d406f3b8 :: Steyr AUG vertical foregrip (Black) :: 9

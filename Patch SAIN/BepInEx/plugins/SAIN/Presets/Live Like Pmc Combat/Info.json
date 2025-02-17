@@ -1,0 +1,11 @@
+{
+  "Name": "Live Like Pmc Combat",
+  "Description": "Guaranteed to lower your SR like live and humble you",
+  "Creator": "AmsPhysics",
+  "SAINVersion": "3.2.1",
+  "SAINPresetVersion": "3.2.1",
+  "DateCreated": "01/04/2025 00:00:00",
+  "BaseSAINDifficulty": "harderpmcs",
+  "IsCustom": true,
+  "CanEditName": true
+}

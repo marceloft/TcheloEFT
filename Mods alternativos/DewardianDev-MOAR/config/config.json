@@ -1,0 +1,47 @@
+{
+  "enableBotSpawning": true,
+  "spawnSmoothing": true,
+
+  "scavDifficulty": 0.4,
+  "scavWaveDistribution": 0.5,
+  "scavWaveQuantity": 1,
+  "scavGroupChance": 0.2,
+  "scavMaxGroupSize": 3,
+  
+  "sniperGroupChance": 0.1,
+  "sniperMaxGroupSize": 1,
+
+  "startingPmcs": false,
+  "pmcDifficulty": 0.6,
+  "pmcWaveDistribution": 0.8,
+  "pmcWaveQuantity": 1,
+  "pmcGroupChance": 0.2,
+  "pmcMaxGroupSize": 4,
+
+  "randomSpawns": false,
+
+  "zombiesEnabled": false,
+  "zombieWaveDistribution": 0.5,
+  "zombieWaveQuantity": 1,
+  "zombieHealth": 1,
+
+  "maxBotCap": 25,
+  "maxBotPerZone": 7,
+
+  "bossOpenZones": false,
+
+  "randomRaiderGroup": false,
+  "randomRaiderGroupChance": 10,
+
+  "randomRogueGroup": false,
+  "randomRogueGroupChance": 10,
+
+  "disableBosses": false,
+  "mainBossChanceBuff": 0,
+
+  "bossInvasion": false,
+  "bossInvasionSpawnChance": 5,
+  "gradualBossInvasion": true,
+
+  "debug": false
+}

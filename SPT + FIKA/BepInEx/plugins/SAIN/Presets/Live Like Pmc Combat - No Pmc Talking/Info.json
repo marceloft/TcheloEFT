@@ -1,0 +1,11 @@
+{
+  "Name": "Live Like Pmc Combat - No Pmc Talking",
+  "Description": "Enter Description Here",
+  "Creator": "AmsPhysics",
+  "SAINVersion": "3.2.1",
+  "SAINPresetVersion": "3.2.1",
+  "DateCreated": "01/07/2025 00:00:00",
+  "BaseSAINDifficulty": "harderpmcs",
+  "IsCustom": true,
+  "CanEditName": true
+}
